@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoogleMaps | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/googlemaps/</link>
+      <atom:link href="https://fraeli78.github.io/tag/googlemaps/index.xml" rel="self" type="application/rss+xml" />
+    <description>GoogleMaps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:21:35 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>GoogleMaps</title>
+      <link>https://fraeli78.github.io/tag/googlemaps/</link>
+    </image>
+    
+    <item>
+      <title>Google Maps</title>
+      <link>https://fraeli78.github.io/post/googlemaps/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:21:35 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/googlemaps/summary/</guid>
+      <description>&lt;h2 id=&#34;google-mapshttpswwwgooglecommaps-is-a-web-mapping-service-developed-by-google-it-offers-satellite-imagery-aerial-photography-street-maps-360-panoramic-views-of-streets-real-time-traffic-conditions-and-route-planning-for-traveling-by-foot-car-bicycle-and-air-or-public-transportation---wikipediahttpsenwikipediaorgwikigoogle_maps&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.google.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Maps&lt;/a&gt;&lt;/strong&gt; is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, bicycle and air, or public transportation - 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Become a Google mapping 
+&lt;a href=&#34;https://www.google.com/earth/outreach/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;expert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Earth Engine Data 
+&lt;a href=&#34;https://developers.google.com/earth-engine/datasets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catalog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Maps APIs byGoogle - 
+&lt;a href=&#34;https://eu.udacity.com/course/google-maps-apis--ud864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Point Map with Google My Maps - 
+&lt;a href=&#34;https://datavizforall.org/mymaps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavizforall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How should I format my geocoder 
+&lt;a href=&#34;https://developers.google.com/maps/faq#geocoder_queryformat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;queries?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Geocoding + Location Columns in 
+&lt;a href=&#34;https://vimeo.com/175617942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fusion Tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Time series on Landsat data with 
+&lt;a href=&#34;http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Earth Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.latlong.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get Lat Long&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/google-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleMaps - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/swlh/using-google-maps-costs-more-than-you-think-d62c7d857b2d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Google Maps costs more than you think.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Google Maps API (v3) with Rails (5.2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@nholmber/gmaps-data-visualization-2b7cc685012d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing Geographic Statistical Data with Google Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/google-design/google-maps-cb0326d165f5?fbclid=IwAR1FJ3KLMEsrJHCw3IHkXdUXaK0AwB0si5-MvGwrvOhtvoMcrqtPLQI6lCw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prototyping a Smoother Map&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=google%20maps&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleMaps - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/google-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [google-maps]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

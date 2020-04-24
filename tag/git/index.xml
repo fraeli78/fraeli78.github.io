@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/git/</link>
+      <atom:link href="https://fraeli78.github.io/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:24:27 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>Git</title>
+      <link>https://fraeli78.github.io/tag/git/</link>
+    </image>
+    
+    <item>
+      <title>Git&amp;GitHub</title>
+      <link>https://fraeli78.github.io/post/git_github/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:24:27 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/git_github/summary/</guid>
+      <description>&lt;h2 id=&#34;githttpsgit-scmcom-is-a-free-and-open-source-distributed-version-control-system-designed-to-handle-everything-from-small-to-very-large-projects-with-speed-and-efficiency&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/strong&gt; is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/h2&gt;
+&lt;h2 id=&#34;githubhttpsgithubcom-is-a-development-platform-inspired-by-the-way-you-work-from-open-source-to-business-you-can-host-and-review-code-manage-projects-and-build-software-alongside-31-million-developers&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;how-to-use-git-and-github---udacityhttpseuudacitycomcoursehow-to-use-git-and-github--ud775&#34;&gt;How to Use Git and GitHub - 
+&lt;a href=&#34;https://eu.udacity.com/course/how-to-use-git-and-github--ud775&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;version-control-with-git---udacityhttpseuudacitycomcourseversion-control-with-git--ud123&#34;&gt;Version Control with Git - 
+&lt;a href=&#34;https://eu.udacity.com/course/version-control-with-git--ud123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;learn-git-with-bitbucket-cloudhttpswwwatlassiancomgittutorialslearn-git-with-bitbucket-cloud&#34;&gt;Learn Git with 
+&lt;a href=&#34;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitbucket Cloud&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;markdown-markup-languagehttpsgithubcomadam-pmarkdown-here&#34;&gt;Markdown 
+&lt;a href=&#34;https://github.com/adam-p/markdown-here&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;markup language&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;github-statushttpswwwgithubstatuscom&#34;&gt;GitHub 
+&lt;a href=&#34;https://www.githubstatus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;status&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;the-top-used-topics-on-githubhttpsgithubcomtopics&#34;&gt;The top used topics on 
+&lt;a href=&#34;https://github.com/topics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/cartography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/arcgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/webgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/opendata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opendata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/scraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scraping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/geocoding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/postgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/sql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/git/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/github/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Enough Git to be Useful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 Git Commands You Should Know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My data visualizations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing large scale terrain with open source tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=git&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=github&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [git]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [github]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

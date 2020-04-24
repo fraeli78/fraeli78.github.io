@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebGIS | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/webgis/</link>
+      <atom:link href="https://fraeli78.github.io/tag/webgis/index.xml" rel="self" type="application/rss+xml" />
+    <description>WebGIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:18:07 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>WebGIS</title>
+      <link>https://fraeli78.github.io/tag/webgis/</link>
+    </image>
+    
+    <item>
+      <title>WebGIS</title>
+      <link>https://fraeli78.github.io/post/webgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:18:07 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/webgis/summary/</guid>
+      <description>&lt;h2 id=&#34;webgis-allows-the-sharing-of-gis-data-maps-and-spatial-processing-across-private-and-public-computer-networks-john-p-wilsonhttpsgistbokucgisorgbok-topicsweb-gis&#34;&gt;&lt;strong&gt;WebGIS&lt;/strong&gt; allows the sharing of GIS data, maps, and spatial processing across private and public computer networks. 
+&lt;a href=&#34;https://gistbok.ucgis.org/bok-topics/web-gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John P. Wilson&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;open-education-resources-by-psuhttpsopenemspsueduoer-searchfsearch_api_aggregation_1web20servicessearch_api_views_fulltextgis&#34;&gt;Open Education Resources by 
+&lt;a href=&#34;https://open.ems.psu.edu/oer-search?f[]=search_api_aggregation_1:web%20services&amp;amp;search_api_views_fulltext=gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PSU&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/maps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maps and the Geospatial Revolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.e-education.psu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Geospatial Education at Penn State&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.e-education.psu.edu/geowebdev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Map Development&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog485/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS Programming and Software Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog585/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Web Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog863/node/1776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Application Development for the Geospatial Professional&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog486/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography and Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog489/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Python Programming for GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog865/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud and Server GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Data Management for the Geospatial Professional&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;data-visualization-for-allhttpswwwedxorgcoursedata-visualization-all-trinityx-t005x---using-free-tools-google-sheets-tableau-highcharts-carto-leaflet-github&#34;&gt;
+&lt;a href=&#34;https://www.edx.org/course/data-visualization-all-trinityx-t005x#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Visualization for All&lt;/a&gt; - using free tools: Google Sheets, Tableau, Highcharts, Carto, Leaflet, GitHub&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;maptime-bostonhttpmaptimebostongithubio&#34;&gt;
+&lt;a href=&#34;http://maptimeboston.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maptime Boston&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;so-you-want-to-make-a-maphttpsgithubcomveltmanlearninglunchestreemastermaps&#34;&gt;
+&lt;a href=&#34;https://github.com/veltman/learninglunches/tree/master/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;So you want to make a map&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;online-mapping-toolshttpledeprogramcom2015absolutely-everything-you-need-to-know-about-mapping-tools&#34;&gt;
+&lt;a href=&#34;http://ledeprogram.com/2015/absolutely-everything-you-need-to-know-about-mapping-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online mapping tools&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collection-of-interactive-maps&#34;&gt;Collection of interactive maps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;javascript--d3-libraries---dataviztoolshttpsdataviztoolscategoryjavascript-d3-libraries&#34;&gt;JavaScript &amp;amp; D3 Libraries - 
+&lt;a href=&#34;https://dataviz.tools/category/javascript-d3-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dataviz.tools&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;jquery&#34;&gt;jQuery&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://colorlib.com/wp/jquery-map-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Top 28 Best Free JQuery Map Plugins To Create An Interactive Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sitepoint.com/10-jquery-global-map-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 jQuery Global Map Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.vincentbroute.fr/mapael/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery Mapael 2.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;umap&#34;&gt;uMap&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://umap.openstreetmap.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create maps with OpenStreetMap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - ### uMap in Italian
+  - [Cosa è uMap](http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/)
+  - [Step by step](https://sites.google.com/view/lucascalzullo/tutorial/umap)
+  - [Tematizzare i poligoni](http://tansignari.opendatasicilia.it/it/latest/ricette/mappe/umap/uMap.html) --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;scribblemap&#34;&gt;ScribbleMap&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.scribblemaps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Easiest way to draw and share maps!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;kepler&#34;&gt;Kepler&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kepler.gl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kepler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://drstephenrobertson.com/blog-post/teaching-digital-mapping-with-kepler-gl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching Digital Mapping with kepler.gl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/search?q=kepler.gl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;mapstarter&#34;&gt;Mapstarter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://mapstarter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapstarter is a tool for turning a geographic data file into a map for the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;geomapfish&#34;&gt;GeoMapFish&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geomapfish.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoMapFish&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;policymap&#34;&gt;POLICYMAP&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.policymap.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POLICYMAP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;esri&#34;&gt;ESRI&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2Ki9CXr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make a Demographic Map in 5 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=5963b160d84f4a27976fc529076699da&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2008 General Election Results - ArcGIS online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/developers/mapping/new-mapping-experience-available-for-developers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Mapping Experience Available for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-enterprise/mapping/vector-tiles-preview/?rmedium=redirect&amp;amp;rsource=blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vector Tiles preview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;wikimapping&#34;&gt;Wikimapping&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://wikimapping.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikimapping&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;potree&#34;&gt;Potree&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.potree.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Potree is a free open-source WebGL based point cloud renderer for large point clouds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historical-map-collectionhttpswwwflickrcomphotosuconnlibrariesmagicsets72157617878169122detail&#34;&gt;Historical Map 
+&lt;a href=&#34;https://www.flickr.com/photos/uconnlibrariesmagic/sets/72157617878169122/detail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collection&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historic-topographic-maps-pushed-into-3dhttpskottkeorg1901historic-topographic-maps-pushed-into-3d&#34;&gt;Historic Topographic Maps Pushed Into 
+&lt;a href=&#34;https://kottke.org/19/01/historic-topographic-maps-pushed-into-3d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historical-maps-online-mapirehttpswwwarcanumhuenmapire&#34;&gt;Historical Maps Online 
+&lt;a href=&#34;https://www.arcanum.hu/en/mapire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAPIRE&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/web-gis-services/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 2018 Web Developer Roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web programming for cartographers — beyond the basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@amy.degenaro/introduction-to-digital-cartography-geojson-and-d3-js-c27f066aa84&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Digital Cartography: GeoJSON and D3.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=webgis&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source-isprs---international-journal-of-geo-information&#34;&gt;Source ISPRS - International Journal of Geo-Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2UFVH1p&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS — Open Access Journal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/search?q=webgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [webgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

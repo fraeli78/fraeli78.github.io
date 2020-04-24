@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostGIS | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/postgis/</link>
+      <atom:link href="https://fraeli78.github.io/tag/postgis/index.xml" rel="self" type="application/rss+xml" />
+    <description>PostGIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:16:35 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>PostGIS</title>
+      <link>https://fraeli78.github.io/tag/postgis/</link>
+    </image>
+    
+    <item>
+      <title>PostGIS</title>
+      <link>https://fraeli78.github.io/post/postgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:16:35 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/postgis/summary/</guid>
+      <description>&lt;h2 id=&#34;postgishttpspostgisnet-is-a-spatial-database-extender-for-postgresqlhttpswwwpostgresqlorg-object-relational-database-it-adds-support-for-geographic-objects-allowing-location-queries-to-be-run-in-sql&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://postgis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/strong&gt; is a spatial database extender for 
+&lt;a href=&#34;https://www.postgresql.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostgreSQL&lt;/a&gt; object-relational database. It adds support for geographic objects allowing location queries to be run in SQL&amp;hellip;&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://postgis.net/workshops/postgis-intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/docs/reference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/workshops/postgis-intro/spatial_relationships_exercises.html#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Relationships Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/archive/11.0/en/quickstart/postgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/maptime/postgis-101/blob/master/postgis-101.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS-101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.db-fiddle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Query in DB-fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;spatial-database-management-by-psuhttpswwwe-educationpsueduspatialdbsyllabus&#34;&gt;Spatial Database Management by 
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PSU&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Retrieving Data From a Relational Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Relational Database Concepts and Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building a Postgres/PostGIS Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l4.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Postgres/PostGIS Topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l5.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with Esri&amp;rsquo;s Desktop Geodatabases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l6.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to the Enterprise Geodatabase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l7.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Management in an Enterprise Geodatabase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l8.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Versioned Editing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;postgresql--postgis-cheat-sheetshttpsgistgithubcomclhenrickebc8dc779fb6f5ee6a88postgis-1&#34;&gt;PostgreSQL &amp;amp; PostGIS 
+&lt;a href=&#34;https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#postgis-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheat sheets&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;osgeo---advanced-functionshttprevenantcawwwpostgisworkshopadvancedhtml&#34;&gt;OSGEO - Advanced 
+&lt;a href=&#34;http://revenant.ca/www/postgis/workshop/advanced.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Functions&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;common-spatial-querieshttpsgistgithubcomclhenrickebc8dc779fb6f5ee6a88common-spatial-queries&#34;&gt;Common Spatial 
+&lt;a href=&#34;https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#common-spatial-queries&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Queries&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;postgis-terminal-exampleshttpsgiswikihsrchpostgis_terminal_examples&#34;&gt;PostGIS Terminal 
+&lt;a href=&#34;https://giswiki.hsr.ch/PostGIS_Terminal_Examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Examples&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;tips-and-tricks-for-writing-postgis-spatial-querieshttpswwwbostongiscomdownloadsoscon2009oscon2009_postgistipspdf&#34;&gt;Tips and Tricks for Writing PostGIS Spatial 
+&lt;a href=&#34;https://www.bostongis.com/downloads/oscon2009/Oscon2009_PostGISTips.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Queries&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;loading-natural-earth-data-to-postgishttpsgisforthoughtcomloading-natural-earth-data-to-postgis-postgresql&#34;&gt;Loading Natural Earth data to 
+&lt;a href=&#34;https://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;extensions&#34;&gt;Extensions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/archive/10.5/en/quickstart/pgrouting_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pgRouting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;amazon-web-services-awshttpsawsamazoncom&#34;&gt;Amazon Web Services 
+&lt;a href=&#34;https://aws.amazon.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(AWS)&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a PostgreSQL DB Instance and Connecting to a Database on a PostgreSQL DB Instance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connecting to a DB Instance Running the PostgreSQL Database Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html#Appendix.PostgreSQL.CommonDBATasks.PostGIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/postgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=postgis&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/postgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [postgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

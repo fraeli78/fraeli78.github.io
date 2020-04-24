@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/gis/</link>
+      <atom:link href="https://fraeli78.github.io/tag/gis/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:15:39 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>GIS</title>
+      <link>https://fraeli78.github.io/tag/gis/</link>
+    </image>
+    
+    <item>
+      <title>ArcGIS</title>
+      <link>https://fraeli78.github.io/post/arcgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:39 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/arcgis/summary/</guid>
+      <description>&lt;h2 id=&#34;arcgishttpswwwesricomen-usarcgisabout-arcgisoverview-offers-unique-capabilities-and-flexible-licensing-for-applying-location-based-analytics-to-your-business-practices&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.esri.com/en-us/arcgis/about-arcgis/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS&lt;/a&gt;&lt;/strong&gt; offers unique capabilities and flexible licensing for applying location-based analytics to your business practices.&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2YWjMjO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping and Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://community.esri.com/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welcome to GeoNet, the Esri Community!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/mooc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free online classes - MOOC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learn.arcgis.com/en/gallery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lesson Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learn.arcgis.com/en/?_lrsc=9248683b-a590-4802-b2b9-f3903c8f686b&amp;amp;adumkts=social&amp;amp;aduc=social&amp;amp;adum=external&amp;amp;aduSF=linkedin&amp;amp;adut=ea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn ArcGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2D5TfHs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get Started with ArcGIS Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-1-why/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beginner&amp;rsquo;s guide to Python in ArcGIS Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://drive.google.com/drive/u/0/folders/0B4-WOURDTCKJbko2a04xREE2Y3M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exercises and data for the book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spatialreserves.wordpress.com/2018/12/10/finding-data-on-arcgis-hub-open-data-portal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finding Data on ArcGIS Hub Open Data Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/5-ways-to-make-your-overview-map-sizzling-hot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5 Ways to Make Your Overview Map Sizzling Hot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pro.arcgis.com/en/pro-app/help/data/geocoding/introduction-to-finding-places-on-a-map.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding Addresses Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/arcgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=ArcGIS&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/arcgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [arcgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QGIS</title>
+      <link>https://fraeli78.github.io/post/qgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:32 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/qgis/summary/</guid>
+      <description>&lt;h2 id=&#34;qgishttpsqgisorgensite---free-and-open-source-geographic-information-system-to-create-edit-visualise-analyse-and-publish-geospatial-information-on-windows-mac-linux-bsd-android-coming-soon&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://qgis.org/en/site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/strong&gt; - Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon).&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/15fBntItxpOk3V8ZVmg0g6Ox5-ZylInN2zVpVBSrKi6k/edit#slide=id.g220367a49a_0_104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behind the scenes of QGIS.ORG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.flickr.com/groups/qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - Map Showcase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/qgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/qgis-3-0-shortcuts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS 3.4 shortcuts guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengislab.com/blog/2019/2/5/tips-for-creating-arcgis-like-symbology-in-qgis?format=amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Creating ArcGIS-like Symbology in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to add Google Maps layers in QGIS 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learngis.uk/creating-statistical-dot-density-map-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a statistical dot density map with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding Addresses Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Python and QGIS for geospatial visualizations - a Case Study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/training_manual/spatial_databases/spatial_queries.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=GAPPQaULmGM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animating markers using MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nHrFOPf1UGw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using the Time Manager plug-in&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plugins&#34;&gt;Plugins&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@compatt84/qweetgis-qgis-3-plugin-for-twitter-93005f2e5ec8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qweetgis — QGIS 3 plugin for Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRouteService API&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://michaelminn.com/linux/mmqgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/tag/time-manager/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lutraconsulting.co.uk/blog/2018/10/17/qgis3d-new-features-qgis3-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D features in QGIS 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/2019/01/26/movement-data-in-gis-19-splitting-trajectories-by-date/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Splitting trajectories by date&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/2019/02/04/announcing-our-slyr-funding-drive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MXD to QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/inasafe/inasafe/tree/master&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InaSAFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS basemaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;colorbrewer 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ezgif.com/maker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ezgif - Animated GIF Maker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gifmaker.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GifMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;useful-sources-in-italian&#34;&gt;Useful sources in Italian&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://hfcqgis.opendatasicilia.it/it/latest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Help for calculator functions of QGIS fields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://qgis4dummies.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qgis4dummies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/qgis-e-la-stampa-in-pdf-layered-a067402e175f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS and layered PDF printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tantotanto/qgis-relazioni-moduli-e-widget-illustrati-con-un-semplice-caso-duso-2dc5ab47770e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS, reports, modules and widgets, illustrated with a simple use case&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come raccogliere dati geolocalizzati&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/tag/qgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to QGIS Time Manage&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geospatial animations with QGIS Atlas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/maptiler/map-service-for-qgis3-without-a-server-51d53aee92cb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Map service for QGIS3 without a server&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;3d&#34;&gt;3D&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating 3D map in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@loosegoat/qgis-data-visualisation-c0579c7472dd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS data visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New QGIS and 3D visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/qgis-3d-buildings-tutorial-1e0111fcd766&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CityGML and 3D data in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS magic — Old raster maps to 3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorcreation.html#id35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Array of offset (parallel) lines NEW in 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://changelog.qgis.org/en/qgis/version/3.6.0/#sld-export-for-raster-styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLD export for raster styles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [qgis]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/7199/how-do-i-calculate-the-latitude-and-longitude-of-points-using-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calculate the latitude and longitude of points using QGIS?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/308985/values-on-top-of-each-bar-of-a-histogram-in-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;values on top of each bar of a histogram created with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>https://fraeli78.github.io/post/gis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:14 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/gis/summary/</guid>
+      <description>&lt;h2 id=&#34;a-geographic-information-system-gis-is-a-framework-for-gathering-managing-and-analyzing-data---esrihttpswwwesricomen-uswhat-is-gisoverview&#34;&gt;A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - 
+&lt;a href=&#34;https://www.esri.com/en-us/what-is-gis/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRI&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;open-source-geospatial-foundation-live---osgeolivehttpsliveosgeoorgenindexhtml&#34;&gt;Open Source Geospatial Foundation Live - 
+&lt;a href=&#34;https://live.osgeo.org/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSGeoLive&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/qgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/grass_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRASS GIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/gvsig_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gvSIG Desktop Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/udig_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uDig Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/openjump_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenJUMP GIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/saga_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAGA Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;esris-massive-open-online-course-program---moochttpswwwesricomtrainingmooc&#34;&gt;Esri&amp;rsquo;s Massive Open Online Course Program - 
+&lt;a href=&#34;https://www.esri.com/training/mooc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/596e584bb826875993ba4ebf/cartography./&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57aba196cbc441087e0d2395/earth-imagery-at-work/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Imagery at Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660f6cbb54adb30c9454bf/the-location-advantage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Location Advantage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Going Places with Spatial Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do-It-Yourself Geo Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/Bookmark/P3KEWETBQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free training courses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;others&#34;&gt;Others&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.spatialanalysisonline.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geospatial Analysis - A comprehensive guide - 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GIS Mapping&lt;/strong&gt; - 
+&lt;a href=&#34;http://duspviz.mit.edu/tutorials/#gismapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DUSPviz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://libguides.mit.edu/c.php?g=176295&amp;amp;p=1161396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geographic Information Systems (GIS): Tutorials and Help Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Tips And Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.northrivergeographic.com/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorials - Randal Hale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://maptimeboston.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maptime Boston&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.ucar.edu/projects/learning-gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning GIS at the National Center for Atmospheric Research (NCAR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The best tools, resources and technologies for 
+&lt;a href=&#34;https://dataviz.tools/category/mapping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GeoHack - 
+&lt;a href=&#34;https://tools.wmflabs.org/geohack/geohack.php?params=___N____E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosting environment of land surfaces on Earth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Command line tool and library for transferring data with URLs - 
+&lt;a href=&#34;https://curl.haxx.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CURL&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Convert City map into hexagonal grid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://uber.github.io/h3/#/documentation/overview/introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H3 Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://strimas.com/spatial/hexagonal-grids/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@goldrydigital/hex-grid-algorithm-for-postgis-4ac45f61d093&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/293780/create-hexbin-honeycomb-grid-using-command-line-or-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatialite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;epsg---european-petroleum-survey-group&#34;&gt;EPSG - European Petroleum Survey Group&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialreference.org/ref/epsg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Reference list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/gis/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My data visualizations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing large scale terrain with open source tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=gis&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source---opennews-project&#34;&gt;Source - OpenNews project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://source.opennews.org/articles/tags/mapping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source-isprs---international-journal-of-geo-information&#34;&gt;Source ISPRS - International Journal of Geo-Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2Z1mioM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS — Open Access Journal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;j-reading---journal-of-research-and-didactics-in-geography&#34;&gt;J-Reading - Journal of Research and Didactics in Geography&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.j-reading.org/index.php/geography/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distance-learning&#34;&gt;Distance Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://unigis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [gis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tutorial/</link>
+      <atom:link href="https://fraeli78.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 18:08:38 +0200</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>Tutorials</title>
+      <link>https://fraeli78.github.io/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>GIS4Dummies</title>
+      <link>https://fraeli78.github.io/tutorial/gis4labrador/</link>
+      <pubDate>Thu, 11 Apr 2019 18:08:38 +0200</pubDate>
+      <guid>https://fraeli78.github.io/tutorial/gis4labrador/</guid>
+      <description>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://fraeli78.github.io/img/Mia_yawn_3.png&#34; &gt;
+
+
+  &lt;img src=&#34;https://fraeli78.github.io/img/Mia_yawn_3.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The world  around geographical information systems is undoubtedly fascinating and increasingly required by the world of work.&lt;/p&gt;
+&lt;p&gt;The problem is how to become an &lt;strong&gt;expert&lt;/strong&gt; in a short time!&lt;/p&gt;
+&lt;p&gt;Will it be sufficient to learn &lt;strong&gt;
+&lt;a href=&#34;https://qgis.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;
+&lt;a href=&#34;https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS Pro&lt;/a&gt;&lt;/strong&gt;? Or will only &lt;strong&gt;
+&lt;a href=&#34;https://www.google.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Maps&lt;/a&gt;&lt;/strong&gt; suffice?&lt;/p&gt;
+&lt;p&gt;Will you have to enroll in a university course? Take a paid online course?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;None of these!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compared to twenty years ago, when &lt;strong&gt;
+&lt;a href=&#34;https://www.esri.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRI&lt;/a&gt;&lt;/strong&gt; was the undisputed master in GIS and social networks had not overwhelmingly entered our daily life, it was rather complicated to find useful information to solve our problems.&lt;/p&gt;
+&lt;p&gt;Today, we face the opposite problem. We continually receive input from different sources and it is increasingly difficult to select which links to save to go deeper into the topic at a later stage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here my work comes into play.&lt;/strong&gt; I have attended many courses on different online platforms such as 
+&lt;a href=&#34;https://www.udacity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;, 
+&lt;a href=&#34;https://www.udemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udemy&lt;/a&gt;, 
+&lt;a href=&#34;https://www.coursera.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt; and 
+&lt;a href=&#34;https://www.linkedin.com/learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Learning&lt;/a&gt; as well as standard courses on site of universities and private companies. I also analyzed thousands of tweets on 
+&lt;a href=&#34;https://twitter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twitter&lt;/a&gt; and posts on 
+&lt;a href=&#34;https://www.linkedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt; to select the best sites from which you can &lt;strong&gt;learn for free.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested in learning more about it because you want to become an expert or simply because you are curious to find out what you can do with a GIS, you can find my &lt;strong&gt;recipe&lt;/strong&gt; here.&lt;/p&gt;
+&lt;h3 id=&#34;centergitgithubcenter&#34;&gt;&lt;center&gt;Git&amp;amp;GitHub&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;It will be very useful in daily activities for various reasons such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To work simultaneously with other people on the same project.&lt;/li&gt;
+&lt;li&gt;Publish your site for free.&lt;/li&gt;
+&lt;li&gt;To store your projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find useful tutorials 
+&lt;a href=&#34;http://localhost:1313/post/git_github/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerosgeo--esricenter&#34;&gt;&lt;center&gt;OSGeo &amp;amp; ESRI&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;Learn GIS using the &lt;strong&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSGeoLive&lt;/a&gt;&lt;/strong&gt; (Open Source) and &lt;strong&gt;
+&lt;a href=&#34;https://www.esri.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRI&lt;/a&gt;&lt;/strong&gt; (commercial) platforms. I strongly advise you to follow both in order to have a broader perspective. You probably prefer to learn open source rather then ESRI. Remember a lot of job offers require skills on ESRI.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OSGeoLive is a wonderful opportunity to learn about the Open Source world in its entirety.&lt;/li&gt;
+&lt;li&gt;ESRI - through MOOCs you will be able to obtain licenses to use the platform and obtain a certificate at the end of the course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The most comprehensive and &lt;strong&gt;free sources&lt;/strong&gt; can be found 
+&lt;a href=&#34;http://localhost:1313/post/gis/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerpostgiscenter&#34;&gt;&lt;center&gt;PostGIS&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s incredibly powerful and you can solve the most complex tasks. You can find a great overview 
+&lt;a href=&#34;http://localhost:1313/post/postgis/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centergdalcenter&#34;&gt;&lt;center&gt;GDAL&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a great library to convert geospatial data. You can find useful tutorials 
+&lt;a href=&#34;http://localhost:1313/post/gdal/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerwebgiscenter&#34;&gt;&lt;center&gt;WebGIS&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;Need a quick review on 
+&lt;a href=&#34;https://www.w3.org/html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;, 
+&lt;a href=&#34;https://www.w3.org/Style/CSS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSS&lt;/a&gt;, 
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript&lt;/a&gt; and 
+&lt;a href=&#34;https://www.php.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHP&lt;/a&gt;? You can find them 
+&lt;a href=&#34;http://localhost:1313/post/web_development/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The ability to manage WebGIS is undoubtedly the most requested capability as it allows you to share your work with the rest of the world.
+You can find a great overview 
+&lt;a href=&#34;http://localhost:1313/post/webgis/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I suggest you learn 
+&lt;a href=&#34;https://leafletjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet&lt;/a&gt; as it is quite simple and there are a lot of documentations for different scenarios.
+The most comprehensive and free sources can be found 
+&lt;a href=&#34;http://localhost:1313/post/leaflet/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerpythoncenter&#34;&gt;&lt;center&gt;Python&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;There are excellent courses that will allow you to learn step by step.
+You can find a great overview 
+&lt;a href=&#34;http://localhost:1313/post/python/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centeropen-datacenter&#34;&gt;&lt;center&gt;Open Data&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;More and more public bodies are sharing their data online. Often you will have to clean up the data to use them properly in a GIS. I have created a list of the main sites where you can download data for free.
+You can find them 
+&lt;a href=&#34;http://localhost:1313/post/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerlicensecenter&#34;&gt;&lt;center&gt;License&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;Last but not least. Whenever you look for a source on the internet it will be useful to know if it is usable or not.
+Guides can be found 
+&lt;a href=&#34;http://localhost:1313/post/licences/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;centerfinal-notescenter&#34;&gt;&lt;center&gt;Final Notes&lt;/center&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I recommend you create a 
+&lt;a href=&#34;https://twitter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;, 
+&lt;a href=&#34;https://www.facebook.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt; and 
+&lt;a href=&#34;https://linkedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt; account to follow the best profiles on GIS. I recommend you visit a blog 
+&lt;a href=&#34;http://localhost:1313/post/blog/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;list&lt;/a&gt; containing the most important news on GIS.&lt;/li&gt;
+&lt;li&gt;I recommend you sign up to 
+&lt;a href=&#34;https://medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; and 
+&lt;a href=&#34;https://www.sciencedirect.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScienceDirect&lt;/a&gt; to receive the best personalized recommendations as per your profile every day.&lt;/li&gt;
+&lt;li&gt;I recommend you create a 
+&lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stack Overflow&lt;/a&gt; account. Here you can ask and find a ton of useful tips.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

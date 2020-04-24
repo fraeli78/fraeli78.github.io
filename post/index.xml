@@ -2,15 +2,1909 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Filippo Maria Raeli</title>
-    <link>https://filippomariaraeli.com/post/</link>
-      <atom:link href="https://filippomariaraeli.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fraeli78.github.io/post/</link>
+      <atom:link href="https://fraeli78.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Apr 2019 10:40:10 +0200</lastBuildDate>
     <image>
-      <url>https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
-      <link>https://filippomariaraeli.com/post/</link>
+      <link>https://fraeli78.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Web development</title>
+      <link>https://fraeli78.github.io/post/web_development/summary/</link>
+      <pubDate>Fri, 12 Apr 2019 10:40:10 +0200</pubDate>
+      <guid>https://fraeli78.github.io/post/web_development/summary/</guid>
+      <description>&lt;h2 id=&#34;web-development-is-the-work-involved-in-developing-a-web-site-for-the-internet-world-wide-web-or-an-intranet-a-private-network---wikipediahttpsenwikipediaorgwikiweb_development&#34;&gt;&lt;strong&gt;Web development&lt;/strong&gt; is the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network) - 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Web_development&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;cheat-sheets&#34;&gt;Cheat Sheets&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/html-dom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/javascript&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/jquery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/mysql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://overapi.com/git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/web-development&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Development - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [HTML]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [CSS]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/javascript&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [JavaScript]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/jquery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [jQuery]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [PHP]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/mysql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [MySQL]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://fraeli78.github.io/post/blog/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:25:24 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/blog/summary/</guid>
+      <description>&lt;h2 id=&#34;there-are-a-ton-of-amazing-blogs-online&#34;&gt;There are a ton of amazing blogs online.&lt;/h2&gt;
+&lt;h4 id=&#34;blog-list&#34;&gt;Blog list&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anita Graser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Galaxy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.spur.org/publications/urbanist-article/2014-11-11/urban-cartography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Urban Cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.geospatialworld.net/blogs/?utm_source=top-menu-moved-bottom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoSpatialWorld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gisgeography.com/category/maps-cartography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS Geography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://adventuresinmapping.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adventures In Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://trajectorymagazine.com/tag/gis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trajectory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.gisuser.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS User&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://scrubbrush-maprap.blogspot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maps Mania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.citylab.com/posts/maps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.blog.google/products/maps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mapoftheweek.blogspot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Map of the week&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cartotalk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carto Talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://revolutionarygis.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revolutionary GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://matthewtoro.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthew Toro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lutraconsulting.co.uk/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lutra consulting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.statsmapsnpix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alasdair Rae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gisforthought.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS for Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.cleverelephant.ca/writings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Ramsey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialdbadvisor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SpatialDB Advisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learngis.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gis.acgeospatial.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Observation and GIS blog categories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengeohub.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Geo Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://georepublic.info/en/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geo Republic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.rtwilson.com/category/academic/gis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin&amp;rsquo;s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.northrivergeographic.com/blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;North River Geographic Systems, Inc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://geotoolsnews.blogspot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoTools news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spatialthoughts.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Thoughts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://new.opengis.ch/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenGIS CH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.joshuastevens.net/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Stevens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mapzen.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapzen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.storytellingwithdata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Storytelling with Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialquerylab.com/news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial {Query} Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.geomusings.com/author/billdollins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bill Dollins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://blog.gvsig.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gvSIG blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git&amp;GitHub</title>
+      <link>https://fraeli78.github.io/post/git_github/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:24:27 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/git_github/summary/</guid>
+      <description>&lt;h2 id=&#34;githttpsgit-scmcom-is-a-free-and-open-source-distributed-version-control-system-designed-to-handle-everything-from-small-to-very-large-projects-with-speed-and-efficiency&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/strong&gt; is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/h2&gt;
+&lt;h2 id=&#34;githubhttpsgithubcom-is-a-development-platform-inspired-by-the-way-you-work-from-open-source-to-business-you-can-host-and-review-code-manage-projects-and-build-software-alongside-31-million-developers&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;how-to-use-git-and-github---udacityhttpseuudacitycomcoursehow-to-use-git-and-github--ud775&#34;&gt;How to Use Git and GitHub - 
+&lt;a href=&#34;https://eu.udacity.com/course/how-to-use-git-and-github--ud775&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;version-control-with-git---udacityhttpseuudacitycomcourseversion-control-with-git--ud123&#34;&gt;Version Control with Git - 
+&lt;a href=&#34;https://eu.udacity.com/course/version-control-with-git--ud123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;learn-git-with-bitbucket-cloudhttpswwwatlassiancomgittutorialslearn-git-with-bitbucket-cloud&#34;&gt;Learn Git with 
+&lt;a href=&#34;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitbucket Cloud&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;markdown-markup-languagehttpsgithubcomadam-pmarkdown-here&#34;&gt;Markdown 
+&lt;a href=&#34;https://github.com/adam-p/markdown-here&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;markup language&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;github-statushttpswwwgithubstatuscom&#34;&gt;GitHub 
+&lt;a href=&#34;https://www.githubstatus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;status&lt;/a&gt;&lt;/h5&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;the-top-used-topics-on-githubhttpsgithubcomtopics&#34;&gt;The top used topics on 
+&lt;a href=&#34;https://github.com/topics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/cartography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/arcgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/webgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/opendata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opendata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/scraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scraping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/geocoding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/postgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/topics/sql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/git/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/github/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Enough Git to be Useful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 Git Commands You Should Know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My data visualizations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing large scale terrain with open source tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=git&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=github&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [git]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [github]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Licenses</title>
+      <link>https://fraeli78.github.io/post/licences/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:22:05 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/licences/summary/</guid>
+      <description>&lt;h2 id=&#34;creative-commonshttpscreativecommonsorgshare-your-workpublic-domainfreeworks-provides-a-range-of-licenses-each-of-which-grants-different-rights-to-use-the-materials-licensed-under-them-all-of-these-licenses-offer-more-permissions-than-all-rights-reserved&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/freeworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons&lt;/a&gt;&lt;/strong&gt; provides a range of licenses, each of which grants different rights to use the materials licensed under them. All of these licenses offer more permissions than “all rights reserved.”&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/freeworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understanding Free Cultural Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://creativecommons.org/share-your-work/licensing-types-examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Licensing types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://choosealicense.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose an open source license&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opendefinition.org/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conformant Licenses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://help.github.com/en/articles/licensing-a-repository&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - Licensing a repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Maps</title>
+      <link>https://fraeli78.github.io/post/googlemaps/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:21:35 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/googlemaps/summary/</guid>
+      <description>&lt;h2 id=&#34;google-mapshttpswwwgooglecommaps-is-a-web-mapping-service-developed-by-google-it-offers-satellite-imagery-aerial-photography-street-maps-360-panoramic-views-of-streets-real-time-traffic-conditions-and-route-planning-for-traveling-by-foot-car-bicycle-and-air-or-public-transportation---wikipediahttpsenwikipediaorgwikigoogle_maps&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.google.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Maps&lt;/a&gt;&lt;/strong&gt; is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, bicycle and air, or public transportation - 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Become a Google mapping 
+&lt;a href=&#34;https://www.google.com/earth/outreach/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;expert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Earth Engine Data 
+&lt;a href=&#34;https://developers.google.com/earth-engine/datasets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catalog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Maps APIs byGoogle - 
+&lt;a href=&#34;https://eu.udacity.com/course/google-maps-apis--ud864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Point Map with Google My Maps - 
+&lt;a href=&#34;https://datavizforall.org/mymaps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavizforall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How should I format my geocoder 
+&lt;a href=&#34;https://developers.google.com/maps/faq#geocoder_queryformat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;queries?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Geocoding + Location Columns in 
+&lt;a href=&#34;https://vimeo.com/175617942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fusion Tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Time series on Landsat data with 
+&lt;a href=&#34;http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Earth Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.latlong.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get Lat Long&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/google-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleMaps - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/swlh/using-google-maps-costs-more-than-you-think-d62c7d857b2d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Google Maps costs more than you think.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Google Maps API (v3) with Rails (5.2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@nholmber/gmaps-data-visualization-2b7cc685012d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing Geographic Statistical Data with Google Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/google-design/google-maps-cb0326d165f5?fbclid=IwAR1FJ3KLMEsrJHCw3IHkXdUXaK0AwB0si5-MvGwrvOhtvoMcrqtPLQI6lCw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prototyping a Smoother Map&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=google%20maps&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleMaps - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/google-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [google-maps]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leaflet</title>
+      <link>https://fraeli78.github.io/post/leaflet/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:20:54 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/leaflet/summary/</guid>
+      <description>&lt;h2 id=&#34;leaflethttpsleafletjscom-an-open-source-javascript-library-for-mobile-friendly-interactive-maps-created-by-vladimir-agafonkinhttpsagafonkincom&#34;&gt;
+&lt;a href=&#34;https://leafletjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet&lt;/a&gt; an open-source JavaScript library for mobile-friendly interactive maps created by 
+&lt;a href=&#34;https://agafonkin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vladimir Agafonkin&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;welcome-to-the-web-map-workshop-series-by-duspvizhttpduspvizmiteduweb-map-workshop&#34;&gt;Welcome to the Web Map Workshop series by &amp;ldquo;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DUSPviz&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/code-your-first-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to Websites (HTML/CSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/bootstrap-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Bootstrap: Website Frameworks and Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/leaflet-js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Map Fundamentals/Make a Basic Web Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/javascript-an-introduction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to JavaScript: Core Concepts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/leaflet-javascript-interactions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript Interactions and Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/map-symbolization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choropleth Mapping and Custom Symbolization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/databases-leaflet-cartodb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to PostGIS: Using CARTO and Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/cartodb-data-collection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Mapping: Data Collection with PHP and the CARTO API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Mapping: Leaflet with PostGIS/NodeJS/Express&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;leaflet-map-templates-by-data-visualization-for-allhttpsdatavizforallorg&#34;&gt;Leaflet Map Templates by &amp;ldquo;
+&lt;a href=&#34;https://datavizforall.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Visualization for All&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-with-google-sheets.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Maps with Google Sheets template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-storymaps-with-google-sheets.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Storymaps with Google Sheets and Scrolling Narrative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-with-socrata.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Maps with Socrata API Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-open-apis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pull Open Data into Leaflet Map with APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;two-weeks-of-leaflet-by-spatial-galaxyhttpspatialgalaxynet&#34;&gt;Two Weeks of Leaflet by &amp;ldquo;
+&lt;a href=&#34;http://spatialgalaxy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Galaxy&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/23/two-weeks-of-leaflet-day-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Two Weeks of Leaflet - Day 1 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/24/leaflet-day-2-adding-a-marker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 2 - Adding a Marker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/25/leaflet-day-3-the-trail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 3 - The Trail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/26/leaflet-day-4-basemaps-and-overlays/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 4 - Basemaps and Overlays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/27/leaflet-day-5-working-with-features/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 5 - Working with Features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/28/leaflet-day-6-geopackage-layers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 6 - GeoPackage Layers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/30/leaflet-day-7-coordinates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 7 - Coordinates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/01/leaflet-day-8-zoom-to-feature/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 8 - Zoom to Feature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Leaflet Day 9 - Calculating Distance with Turf.js](Leaflet Day 9 - Calculating Distance with Turf.js)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/06/leaflet-day-10-adding-a-link-to-a-popup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 10 - Adding a Link to a Popup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/08/leaflet-day-11-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 11 - Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/09/leaflet-day-12-create-a-leaflet-map-from-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 12 - Create a Leaflet Map from QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/10/leaflet-day-13-styling-with-a-plugin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 13 - Styling with a Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/11/leaflet-day-14-image-overlay-and-wrap-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 14 - Image Overlay and Wrap-up&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;using-leaflet-with-shiny-by-rstudiohttpswwwrstudiocom&#34;&gt;Using Leaflet with Shiny by &amp;ldquo;
+&lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rstudio.github.io/leaflet/shiny.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet for R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publishing Maps to the Web - Bryce Mecum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bl.ocks.org/pattyf/raw/3bc3a95a3047f132b253eec4250fabca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a Leaflet Map and publishing it on RPubs - Patty Frontiera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/AugustT/shiny_geolocation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geolocate User Location in R Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.kimberlycoffey.com/blog/2016/2/13/mlz90wjw0k76446xkg262prvjp0l8u&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny APP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;make-web-map-with-leaflet&#34;&gt;Make Web Map with Leaflet&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://luxembourgjs.github.io/leaflet-demo/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://maptimeboston.github.io/leaflet-intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet: Make a web map!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/geografa/foss4g2014-workshops/blob/master/Leaflet-and-Mapbox-JavaScript-API-Fundamentals.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet and Mapbox JavaScript API Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/petermooney/foss4VGI/blob/master/MappingWithLeaflet/Visualing_VGI_With_Leaflet_PeterMooney.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualising VGI with Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bl.ocks.org/rgdonohue/bb2fdafab5ee7532df52&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perceptual scaling of prop symbols&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.patrick-wied.at/static/heatmapjs/example-heatmap-leaflet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heatmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.ucar.edu/github-web-hosting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Web Hosting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/uwcart/cartographic-perspectives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartographic Perspectives &amp;ldquo;On The Horizon&amp;rdquo; Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jmmluna.github.io/Leaflet.geojsonCSS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geojson CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jmmluna.github.io/Leaflet.geojsonCSS/demo-layer-and-feature-style/demo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoJSON CSS Vector layer and vector feature style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/19209969/load-google-spreadsheet-to-visualize-with-leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Load Google Spreadsheet to visualize with leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-polygon-map-multi-year-tabs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Thematic Polygon Map with Multi-Year Tabs template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rdrn.me/leaflet-maps-google-sheets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet maps with data from Google Sheets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;leaflet-zip-code-map&#34;&gt;Leaflet Zip Code Map&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dillonshook.com/leaflet-zip-code-map-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dillonshook.com/leaflet-zip-code-map-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plugin&#34;&gt;Plugin&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;great-leaflet-pluginshttpsleafletjscompluginshtml&#34;&gt;Great Leaflet 
+&lt;a href=&#34;https://leafletjs.com/plugins.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plugins&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/calvinmetcalf/leaflet-ajax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ajax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mapbox/leaflet-omnivore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omnivore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/calvinmetcalf/leaflet.shapefile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shapefile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/lvoogdt/Leaflet.awesome-markers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome-markers plugin v2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://labs.mapbox.com/maki-icons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maki - Icon set made for map designers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/jseppi/Leaflet.MakiMarkers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MakiMarkers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Leaflet/Leaflet.markercluster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marker cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Leaflet/Leaflet.draw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Draw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/codeofsumit/leaflet.pm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geometry Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/k4r573n/leaflet-control-osm-geocoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control osm geocoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/perliedman/leaflet-control-geocoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control Geocoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/stefanocudini/leaflet-search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/noncomputable/AgentMaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AgentMaps - Social Simulations on Interactive Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://millermountain.com/geospatialblog/2018/06/26/postgis-data-in-leaflet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with PostGIS data from within Leaflet.js (or any other client side mapping API)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/domoritz/leaflet-locatecontrol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geolocate the user with many options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/nickpeihl/leaflet-sidebar-v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A responsive sidebar with tabs just for Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.coffeegnome.net/synchronization-of-leaflet-js-and-google-spreadsheet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synchronization of leaflet.js and google spreadsheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@tomchadwin/where-next-for-qgis2web-2c39e03b4131&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qgis2web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;gallery&#34;&gt;Gallery&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://roadstorome.moovellab.com/explore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Urban Mobility Fingerprint and Street DNA graphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://source.opennews.org/articles/draw-your-own-election-adventure/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Draw Your Own Election Adventure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heatmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cartographicperspectives.org/index.php/journal/article/view/cp76-donohue-et-al/1307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Series Proportional Symbol Maps with Leaflet and jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cartographicperspectives.org/index.php/journal/article/view/cp78-sack-et-al/1359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interactive and Multivariate Choropleth Maps with D3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geography.wisc.edu/geography-575-spring-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student final project - Geography 575 spring 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://geog575-spring2016.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Madison Geography 575 Final Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gisteckno.com/pmc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plano Mutual Cemetery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.openrailwaymap.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRailwayMap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dopa-explorer.jrc.ec.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Observatory for Protected Areas (DOPA) Explorer 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.renewables.ninja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renewable energy simulations, ninja style&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;useful-tools-for-daily-activity&#34;&gt;Useful tools for daily activity&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://colorbrewer2.org/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorbrewer 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.axismaps.com/guide/data/data-classification/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Basics of Data Classification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Your Friendly Guide to Colors in Data Visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bivariate Choropleth Maps: A How-to Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/google/palette.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Script for generating color palettes for use with graphs, charts and cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datatables.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced interaction controls to your HTML tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://react-leaflet.js.org/docs/en/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;React-Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [leaflet]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/leaflet/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=J7pFiXh-ydA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Build a Maps App with Leaflet - React/Node.js/Express/MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WebGIS</title>
+      <link>https://fraeli78.github.io/post/webgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:18:07 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/webgis/summary/</guid>
+      <description>&lt;h2 id=&#34;webgis-allows-the-sharing-of-gis-data-maps-and-spatial-processing-across-private-and-public-computer-networks-john-p-wilsonhttpsgistbokucgisorgbok-topicsweb-gis&#34;&gt;&lt;strong&gt;WebGIS&lt;/strong&gt; allows the sharing of GIS data, maps, and spatial processing across private and public computer networks. 
+&lt;a href=&#34;https://gistbok.ucgis.org/bok-topics/web-gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John P. Wilson&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;open-education-resources-by-psuhttpsopenemspsueduoer-searchfsearch_api_aggregation_1web20servicessearch_api_views_fulltextgis&#34;&gt;Open Education Resources by 
+&lt;a href=&#34;https://open.ems.psu.edu/oer-search?f[]=search_api_aggregation_1:web%20services&amp;amp;search_api_views_fulltext=gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PSU&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/maps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maps and the Geospatial Revolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.e-education.psu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Geospatial Education at Penn State&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.e-education.psu.edu/geowebdev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Map Development&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog485/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS Programming and Software Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog585/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Web Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog863/node/1776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Application Development for the Geospatial Professional&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog486/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography and Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog489/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Python Programming for GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/geog865/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud and Server GIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Data Management for the Geospatial Professional&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;data-visualization-for-allhttpswwwedxorgcoursedata-visualization-all-trinityx-t005x---using-free-tools-google-sheets-tableau-highcharts-carto-leaflet-github&#34;&gt;
+&lt;a href=&#34;https://www.edx.org/course/data-visualization-all-trinityx-t005x#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Visualization for All&lt;/a&gt; - using free tools: Google Sheets, Tableau, Highcharts, Carto, Leaflet, GitHub&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;maptime-bostonhttpmaptimebostongithubio&#34;&gt;
+&lt;a href=&#34;http://maptimeboston.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maptime Boston&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;so-you-want-to-make-a-maphttpsgithubcomveltmanlearninglunchestreemastermaps&#34;&gt;
+&lt;a href=&#34;https://github.com/veltman/learninglunches/tree/master/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;So you want to make a map&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;online-mapping-toolshttpledeprogramcom2015absolutely-everything-you-need-to-know-about-mapping-tools&#34;&gt;
+&lt;a href=&#34;http://ledeprogram.com/2015/absolutely-everything-you-need-to-know-about-mapping-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online mapping tools&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collection-of-interactive-maps&#34;&gt;Collection of interactive maps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;javascript--d3-libraries---dataviztoolshttpsdataviztoolscategoryjavascript-d3-libraries&#34;&gt;JavaScript &amp;amp; D3 Libraries - 
+&lt;a href=&#34;https://dataviz.tools/category/javascript-d3-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dataviz.tools&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;jquery&#34;&gt;jQuery&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://colorlib.com/wp/jquery-map-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Top 28 Best Free JQuery Map Plugins To Create An Interactive Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sitepoint.com/10-jquery-global-map-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 jQuery Global Map Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.vincentbroute.fr/mapael/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery Mapael 2.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;umap&#34;&gt;uMap&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://umap.openstreetmap.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create maps with OpenStreetMap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - ### uMap in Italian
+  - [Cosa è uMap](http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/)
+  - [Step by step](https://sites.google.com/view/lucascalzullo/tutorial/umap)
+  - [Tematizzare i poligoni](http://tansignari.opendatasicilia.it/it/latest/ricette/mappe/umap/uMap.html) --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;scribblemap&#34;&gt;ScribbleMap&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.scribblemaps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Easiest way to draw and share maps!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;kepler&#34;&gt;Kepler&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kepler.gl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kepler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://drstephenrobertson.com/blog-post/teaching-digital-mapping-with-kepler-gl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching Digital Mapping with kepler.gl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/search?q=kepler.gl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;mapstarter&#34;&gt;Mapstarter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://mapstarter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapstarter is a tool for turning a geographic data file into a map for the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;geomapfish&#34;&gt;GeoMapFish&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geomapfish.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoMapFish&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;policymap&#34;&gt;POLICYMAP&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.policymap.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POLICYMAP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;esri&#34;&gt;ESRI&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2Ki9CXr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make a Demographic Map in 5 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=5963b160d84f4a27976fc529076699da&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2008 General Election Results - ArcGIS online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/developers/mapping/new-mapping-experience-available-for-developers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Mapping Experience Available for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-enterprise/mapping/vector-tiles-preview/?rmedium=redirect&amp;amp;rsource=blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vector Tiles preview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;wikimapping&#34;&gt;Wikimapping&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://wikimapping.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikimapping&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;potree&#34;&gt;Potree&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.potree.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Potree is a free open-source WebGL based point cloud renderer for large point clouds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historical-map-collectionhttpswwwflickrcomphotosuconnlibrariesmagicsets72157617878169122detail&#34;&gt;Historical Map 
+&lt;a href=&#34;https://www.flickr.com/photos/uconnlibrariesmagic/sets/72157617878169122/detail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collection&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historic-topographic-maps-pushed-into-3dhttpskottkeorg1901historic-topographic-maps-pushed-into-3d&#34;&gt;Historic Topographic Maps Pushed Into 
+&lt;a href=&#34;https://kottke.org/19/01/historic-topographic-maps-pushed-into-3d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;historical-maps-online-mapirehttpswwwarcanumhuenmapire&#34;&gt;Historical Maps Online 
+&lt;a href=&#34;https://www.arcanum.hu/en/mapire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAPIRE&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/web-gis-services/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 2018 Web Developer Roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web programming for cartographers — beyond the basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@amy.degenaro/introduction-to-digital-cartography-geojson-and-d3-js-c27f066aa84&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Digital Cartography: GeoJSON and D3.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=webgis&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source-isprs---international-journal-of-geo-information&#34;&gt;Source ISPRS - International Journal of Geo-Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2UFVH1p&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebGIS — Open Access Journal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/search?q=webgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [webgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://fraeli78.github.io/post/python/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:17:17 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/python/summary/</guid>
+      <description>&lt;h2 id=&#34;pythonhttpswwwpythonorg-is-a-programming-language-that-lets-you-work-quickly-and-integrate-systems-more-effectively&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;&lt;/strong&gt; is a programming language that lets you work quickly and integrate systems more effectively.&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What exactly can you do with Python? Here are Python’s 3 main applications.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/tutorials/python_pandas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to Python and Pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/tutorials/python-scraping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to Python and Web Scraping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyQGIS 101: Introduction to QGIS Python programming for non-programmers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/pulse/python-geospatial-work-flows-part-3-virtual-andrew-cutts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python for Geospatial work flows: Virtual Environments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;introduction-to-python-gis-by-university-of-helsinkihttpsautomating-gis-processesgithubiocsc18&#34;&gt;Introduction to Python GIS by University of 
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helsinki&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L1/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Data Model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L2/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Geopandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L3/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L4/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial join&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L5/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Static map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/CSC18/lessons/L6/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing raster data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;geocoder---documentationhttpsgeocoderreadthedocsioapihtmlinstall&#34;&gt;Geocoder - 
+&lt;a href=&#34;https://geocoder.readthedocs.io/api.html#install&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;geopy---documentationhttpsgeopyreadthedocsioenlatest&#34;&gt;Geopy - 
+&lt;a href=&#34;https://geopy.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;automating-gis-processes-by-university-of-helsinkihttpsautomating-gis-processesgithubio2018&#34;&gt;Automating GIS processes by University of 
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helsinki&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L1/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS in Python; Spatial data model; Geometric Objects; Shapely&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L2/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with GeoDataFrames; Managing projections; Table join;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L3/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding and making spatial queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L4/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geometric operations; Reclassifying data with Pysal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L5/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualization, making static and interactive maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L6/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network analysis and routing in Python (transport modelling)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://automating-gis-processes.github.io/2018/lessons/L7/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Python programming in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;100-numpy-exerciseshttpwwwlabrifrpersonrougierteachingnumpy100indexhtml&#34;&gt;100 numpy 
+&lt;a href=&#34;http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exercises&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;from-csv-to-geodataframe-in-two-lineshttpsanitagrasercom20190123from-csv-to-geodataframe-in-two-linesamp&#34;&gt;From CSV to GeoDataFrame in 
+&lt;a href=&#34;https://anitagraser.com/2019/01/23/from-csv-to-geodataframe-in-two-lines/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two lines&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;python--beautifulsoup--qgishttpsbondahgithubiopython-bs4-qgis0&#34;&gt;Python + BeautifulSoup + 
+&lt;a href=&#34;https://bondah.github.io/python-bs4-qgis/#0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;scraping-extracting-and-mapping-geodata-from-twitterhttpwwwmikaelbrunilafi20170327scraping-extracting-mapping-geodata-twitter&#34;&gt;Scraping, extracting and mapping geodata from 
+&lt;a href=&#34;http://www.mikaelbrunila.fi/2017/03/27/scraping-extracting-mapping-geodata-twitter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;extending-postgis-with-pythonhttps2017foss4gorgpost_conferenceextending-postgis-with-pythonpdf&#34;&gt;Extending PostGIS with 
+&lt;a href=&#34;https://2017.foss4g.org/post_conference/Extending-PostGIS-with-Python.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;anaconda&#34;&gt;Anaconda&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/landlab/landlab/wiki/Correcting-Install-Paths&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anaconda - Correcting Install Paths&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anaconda.org/conda-forge/geocoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anaconda.org/conda-forge/geopy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geopy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/tag/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python - articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geo libraries in Python (Plotting current fires)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32?_referrer=twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Satellite Imagery Analysis with Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Jupyter Notebooks: A Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223?_referrer=twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Enough Python to be Useful: argparse&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blog.goodaudience.com/how-to-generate-a-word-cloud-of-any-shape-in-python-7bce27a55f6e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Generate a Word Cloud of Any Shape in Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;web-scraping&#34;&gt;Web Scraping&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@kaustumbhjaiswal7/learn-web-scraping-using-python-in-under-5-minutes-36a7d4d6e1e7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Web Scraping using Python in under 5 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Scraping Tutorial with Python: Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Web Scrape with Python in 4 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to scrape websites with Python and BeautifulSoup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastering Python Web Scraping: Get Your Data Back&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better web scraping in Python with Selenium, Beautiful Soup, and pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@gunawan.wisnu/web-scrapping-geoid-indonesia-with-python-d663b4343adb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Scraping Geoid Indonesia Data With Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dataset creation and cleaning: Web Scraping using Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=python&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [python]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GDAL</title>
+      <link>https://fraeli78.github.io/post/gdal/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:16:55 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/gdal/summary/</guid>
+      <description>&lt;h2 id=&#34;gdalhttpswwwgdalorg-is-a-translator-library-for-raster-and-vector-geospatial-data-formats-that-is-released-under-an-xmit-style-open-source-license-by-the-open-source-geospatial-foundation&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.gdal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDAL&lt;/a&gt;&lt;/strong&gt; is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GDAL/OGR 
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/gdal_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Welcome to the Python GDAL/OGR 
+&lt;a href=&#34;https://pcjericks.github.io/py-gdalogr-cookbook/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ogre.adc4gis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ogr2ogr Converter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://geojson.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoJSON data converter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mapshaper.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapshaper&lt;/a&gt; - 
+&lt;a href=&#34;https://datavizforall.org/convert-edit-join-and-dissolve-with-mapshaper-org.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/gdal/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gdal - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/ogr2ogr/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ogr2ogr - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gdal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [gdal]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/ogr2ogr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [ogr2ogr]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PostGIS</title>
+      <link>https://fraeli78.github.io/post/postgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:16:35 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/postgis/summary/</guid>
+      <description>&lt;h2 id=&#34;postgishttpspostgisnet-is-a-spatial-database-extender-for-postgresqlhttpswwwpostgresqlorg-object-relational-database-it-adds-support-for-geographic-objects-allowing-location-queries-to-be-run-in-sql&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://postgis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/strong&gt; is a spatial database extender for 
+&lt;a href=&#34;https://www.postgresql.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostgreSQL&lt;/a&gt; object-relational database. It adds support for geographic objects allowing location queries to be run in SQL&amp;hellip;&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://postgis.net/workshops/postgis-intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/docs/reference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://postgis.net/workshops/postgis-intro/spatial_relationships_exercises.html#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Relationships Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/archive/11.0/en/quickstart/postgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/maptime/postgis-101/blob/master/postgis-101.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS-101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.db-fiddle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Query in DB-fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;spatial-database-management-by-psuhttpswwwe-educationpsueduspatialdbsyllabus&#34;&gt;Spatial Database Management by 
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PSU&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Retrieving Data From a Relational Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Relational Database Concepts and Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building a Postgres/PostGIS Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l4.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Postgres/PostGIS Topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l5.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with Esri&amp;rsquo;s Desktop Geodatabases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l6.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to the Enterprise Geodatabase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l7.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Management in an Enterprise Geodatabase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.e-education.psu.edu/spatialdb/l8.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Versioned Editing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;postgresql--postgis-cheat-sheetshttpsgistgithubcomclhenrickebc8dc779fb6f5ee6a88postgis-1&#34;&gt;PostgreSQL &amp;amp; PostGIS 
+&lt;a href=&#34;https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#postgis-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheat sheets&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;osgeo---advanced-functionshttprevenantcawwwpostgisworkshopadvancedhtml&#34;&gt;OSGEO - Advanced 
+&lt;a href=&#34;http://revenant.ca/www/postgis/workshop/advanced.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Functions&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;common-spatial-querieshttpsgistgithubcomclhenrickebc8dc779fb6f5ee6a88common-spatial-queries&#34;&gt;Common Spatial 
+&lt;a href=&#34;https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#common-spatial-queries&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Queries&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;postgis-terminal-exampleshttpsgiswikihsrchpostgis_terminal_examples&#34;&gt;PostGIS Terminal 
+&lt;a href=&#34;https://giswiki.hsr.ch/PostGIS_Terminal_Examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Examples&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;tips-and-tricks-for-writing-postgis-spatial-querieshttpswwwbostongiscomdownloadsoscon2009oscon2009_postgistipspdf&#34;&gt;Tips and Tricks for Writing PostGIS Spatial 
+&lt;a href=&#34;https://www.bostongis.com/downloads/oscon2009/Oscon2009_PostGISTips.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Queries&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;loading-natural-earth-data-to-postgishttpsgisforthoughtcomloading-natural-earth-data-to-postgis-postgresql&#34;&gt;Loading Natural Earth data to 
+&lt;a href=&#34;https://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;extensions&#34;&gt;Extensions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/archive/10.5/en/quickstart/pgrouting_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pgRouting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;amazon-web-services-awshttpsawsamazoncom&#34;&gt;Amazon Web Services 
+&lt;a href=&#34;https://aws.amazon.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(AWS)&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a PostgreSQL DB Instance and Connecting to a Database on a PostgreSQL DB Instance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connecting to a DB Instance Running the PostgreSQL Database Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html#Appendix.PostgreSQL.CommonDBATasks.PostGIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/postgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=postgis&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/postgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [postgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ArcGIS</title>
+      <link>https://fraeli78.github.io/post/arcgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:39 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/arcgis/summary/</guid>
+      <description>&lt;h2 id=&#34;arcgishttpswwwesricomen-usarcgisabout-arcgisoverview-offers-unique-capabilities-and-flexible-licensing-for-applying-location-based-analytics-to-your-business-practices&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.esri.com/en-us/arcgis/about-arcgis/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS&lt;/a&gt;&lt;/strong&gt; offers unique capabilities and flexible licensing for applying location-based analytics to your business practices.&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2YWjMjO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping and Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://community.esri.com/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welcome to GeoNet, the Esri Community!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/mooc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free online classes - MOOC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learn.arcgis.com/en/gallery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lesson Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learn.arcgis.com/en/?_lrsc=9248683b-a590-4802-b2b9-f3903c8f686b&amp;amp;adumkts=social&amp;amp;aduc=social&amp;amp;adum=external&amp;amp;aduSF=linkedin&amp;amp;adut=ea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn ArcGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2D5TfHs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get Started with ArcGIS Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-1-why/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beginner&amp;rsquo;s guide to Python in ArcGIS Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://drive.google.com/drive/u/0/folders/0B4-WOURDTCKJbko2a04xREE2Y3M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exercises and data for the book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spatialreserves.wordpress.com/2018/12/10/finding-data-on-arcgis-hub-open-data-portal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finding Data on ArcGIS Hub Open Data Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/5-ways-to-make-your-overview-map-sizzling-hot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5 Ways to Make Your Overview Map Sizzling Hot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pro.arcgis.com/en/pro-app/help/data/geocoding/introduction-to-finding-places-on-a-map.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding Addresses Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/arcgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=ArcGIS&amp;amp;origin=article&amp;amp;zone=qSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/arcgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [arcgis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QGIS</title>
+      <link>https://fraeli78.github.io/post/qgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:32 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/qgis/summary/</guid>
+      <description>&lt;h2 id=&#34;qgishttpsqgisorgensite---free-and-open-source-geographic-information-system-to-create-edit-visualise-analyse-and-publish-geospatial-information-on-windows-mac-linux-bsd-android-coming-soon&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://qgis.org/en/site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/strong&gt; - Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon).&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/15fBntItxpOk3V8ZVmg0g6Ox5-ZylInN2zVpVBSrKi6k/edit#slide=id.g220367a49a_0_104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behind the scenes of QGIS.ORG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.flickr.com/groups/qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - Map Showcase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/qgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/qgis-3-0-shortcuts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS 3.4 shortcuts guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengislab.com/blog/2019/2/5/tips-for-creating-arcgis-like-symbology-in-qgis?format=amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Creating ArcGIS-like Symbology in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to add Google Maps layers in QGIS 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learngis.uk/creating-statistical-dot-density-map-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a statistical dot density map with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding Addresses Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Python and QGIS for geospatial visualizations - a Case Study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/training_manual/spatial_databases/spatial_queries.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=GAPPQaULmGM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animating markers using MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nHrFOPf1UGw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using the Time Manager plug-in&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plugins&#34;&gt;Plugins&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@compatt84/qweetgis-qgis-3-plugin-for-twitter-93005f2e5ec8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qweetgis — QGIS 3 plugin for Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRouteService API&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://michaelminn.com/linux/mmqgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/tag/time-manager/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lutraconsulting.co.uk/blog/2018/10/17/qgis3d-new-features-qgis3-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D features in QGIS 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/2019/01/26/movement-data-in-gis-19-splitting-trajectories-by-date/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Splitting trajectories by date&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/2019/02/04/announcing-our-slyr-funding-drive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MXD to QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/inasafe/inasafe/tree/master&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InaSAFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS basemaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;colorbrewer 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ezgif.com/maker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ezgif - Animated GIF Maker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gifmaker.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GifMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;useful-sources-in-italian&#34;&gt;Useful sources in Italian&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://hfcqgis.opendatasicilia.it/it/latest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Help for calculator functions of QGIS fields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://qgis4dummies.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qgis4dummies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/qgis-e-la-stampa-in-pdf-layered-a067402e175f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS and layered PDF printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tantotanto/qgis-relazioni-moduli-e-widget-illustrati-con-un-semplice-caso-duso-2dc5ab47770e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS, reports, modules and widgets, illustrated with a simple use case&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come raccogliere dati geolocalizzati&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/tag/qgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to QGIS Time Manage&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geospatial animations with QGIS Atlas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/maptiler/map-service-for-qgis3-without-a-server-51d53aee92cb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Map service for QGIS3 without a server&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;3d&#34;&gt;3D&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating 3D map in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@loosegoat/qgis-data-visualisation-c0579c7472dd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS data visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New QGIS and 3D visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/qgis-3d-buildings-tutorial-1e0111fcd766&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CityGML and 3D data in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS magic — Old raster maps to 3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorcreation.html#id35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Array of offset (parallel) lines NEW in 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://changelog.qgis.org/en/qgis/version/3.6.0/#sld-export-for-raster-styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLD export for raster styles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [qgis]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/7199/how-do-i-calculate-the-latitude-and-longitude-of-points-using-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calculate the latitude and longitude of points using QGIS?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/308985/values-on-top-of-each-bar-of-a-histogram-in-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;values on top of each bar of a histogram created with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>https://fraeli78.github.io/post/gis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:14 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/gis/summary/</guid>
+      <description>&lt;h2 id=&#34;a-geographic-information-system-gis-is-a-framework-for-gathering-managing-and-analyzing-data---esrihttpswwwesricomen-uswhat-is-gisoverview&#34;&gt;A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - 
+&lt;a href=&#34;https://www.esri.com/en-us/what-is-gis/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRI&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;open-source-geospatial-foundation-live---osgeolivehttpsliveosgeoorgenindexhtml&#34;&gt;Open Source Geospatial Foundation Live - 
+&lt;a href=&#34;https://live.osgeo.org/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSGeoLive&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/qgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/grass_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRASS GIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/gvsig_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gvSIG Desktop Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/udig_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uDig Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/openjump_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenJUMP GIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/saga_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAGA Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;esris-massive-open-online-course-program---moochttpswwwesricomtrainingmooc&#34;&gt;Esri&amp;rsquo;s Massive Open Online Course Program - 
+&lt;a href=&#34;https://www.esri.com/training/mooc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/596e584bb826875993ba4ebf/cartography./&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57aba196cbc441087e0d2395/earth-imagery-at-work/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Imagery at Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660f6cbb54adb30c9454bf/the-location-advantage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Location Advantage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Going Places with Spatial Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do-It-Yourself Geo Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.esri.com/training/Bookmark/P3KEWETBQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free training courses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;others&#34;&gt;Others&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.spatialanalysisonline.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geospatial Analysis - A comprehensive guide - 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GIS Mapping&lt;/strong&gt; - 
+&lt;a href=&#34;http://duspviz.mit.edu/tutorials/#gismapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DUSPviz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://libguides.mit.edu/c.php?g=176295&amp;amp;p=1161396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geographic Information Systems (GIS): Tutorials and Help Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Tips And Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.northrivergeographic.com/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorials - Randal Hale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://maptimeboston.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maptime Boston&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.ucar.edu/projects/learning-gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning GIS at the National Center for Atmospheric Research (NCAR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The best tools, resources and technologies for 
+&lt;a href=&#34;https://dataviz.tools/category/mapping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GeoHack - 
+&lt;a href=&#34;https://tools.wmflabs.org/geohack/geohack.php?params=___N____E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosting environment of land surfaces on Earth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Command line tool and library for transferring data with URLs - 
+&lt;a href=&#34;https://curl.haxx.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CURL&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Convert City map into hexagonal grid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://uber.github.io/h3/#/documentation/overview/introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H3 Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://strimas.com/spatial/hexagonal-grids/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@goldrydigital/hex-grid-algorithm-for-postgis-4ac45f61d093&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/293780/create-hexbin-honeycomb-grid-using-command-line-or-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatialite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;epsg---european-petroleum-survey-group&#34;&gt;EPSG - European Petroleum Survey Group&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialreference.org/ref/epsg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Reference list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/gis/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My data visualizations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing large scale terrain with open source tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=gis&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source---opennews-project&#34;&gt;Source - OpenNews project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://source.opennews.org/articles/tags/mapping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;source-isprs---international-journal-of-geo-information&#34;&gt;Source ISPRS - International Journal of Geo-Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bit.ly/2Z1mioM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIS — Open Access Journal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;j-reading---journal-of-research-and-didactics-in-geography&#34;&gt;J-Reading - Journal of Research and Didactics in Geography&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.j-reading.org/index.php/geography/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distance-learning&#34;&gt;Distance Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://unigis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [gis]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can your customers find you?</title>
+      <link>https://fraeli78.github.io/post/scribblemaps/can_your_customers_find_you/</link>
+      <pubDate>Fri, 15 Mar 2019 12:21:24 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/scribblemaps/can_your_customers_find_you/</guid>
+      <description>&lt;p&gt;The Christmas holidays are upon us. It’s time for shopping and relaxation. Commercial activities are in full swing. Advertisements flood TV, newspapers, and radio with a ton of last-minute promotions.&lt;/p&gt;
+&lt;p&gt;If you are a new business and you would like to advertise an event to attract new customers, you will sure to be found.&lt;/p&gt;
+&lt;p&gt;Scribble Maps will make your life easier and help you create a map that can be shared on your digital channels, like social media, your website, and WhatsApp, with directions to your business.&lt;/p&gt;
+&lt;p&gt;Imagine that your business is in a small town in the Tuscan countryside that only the locals know. You have to look for a way to draw as many customers to you as you can.&lt;/p&gt;
+&lt;p&gt;In order to do this, you should consider major cities or populated areas around you. In this case the airports of Pisa and Florence and the cities of Lucca and Volterra. By entering the appropriate markers (nearby cities and airports) into Scribble Maps, you can bring potential customers to you.&lt;/p&gt;
+&lt;p&gt;Use the “Creating Directions feature” by entering a starting point, such as the Pisa airport, and set your business’s address as the destination. Repeat the same procedure for any remaining markers, like Lucca and Volterra.&lt;/p&gt;
+&lt;p&gt;Now, you have the final map containing all the information that you need.
+How can we share it with other users?
+We can include the map on the home page by following simple steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose Widget/embed from the Menu Toolbar
+&lt;img src=&#34;map1.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Choose the map size
+&lt;img src=&#34;map2.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Click preview to show how the map will appear like
+&lt;img src=&#34;map3.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Scribble Maps can also be used to create simple and easy maps with directions to any business or even your next event.  Give directions to your favorite farmhouse. Or try it out for your wedding party.&lt;/p&gt;
+&lt;p&gt;In any case, share your experiences with us!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geomarketing Market Research</title>
+      <link>https://fraeli78.github.io/post/scribblemaps/geomarketing_market_research/</link>
+      <pubDate>Fri, 15 Mar 2019 12:20:49 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/scribblemaps/geomarketing_market_research/</guid>
+      <description>&lt;p&gt;Today we are going to show you some real examples on one of the most advanced functionalities of Scribble Maps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nearby Search.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Any time you have to travel to a new city, you would like to know in a short time, which could be the best area to choose your Hotel, B&amp;amp;B or farmhouse for example.&lt;/p&gt;
+&lt;p&gt;In order to find it, you would like to point out in your map where the most important services are located as per your interest. There are a lot of Apps that can help you by showing the hotels, restaurants, pubs, cinemas etc.
+Scribble Maps simplifies it! Let us demontrate!&lt;/p&gt;
+&lt;p&gt;If you input a location such as Florence, to the search box, a new window will appear to help you to select the most popular categories from a list - such as Airport, Parking, Museum, Pharmacy, etc. You can also select the Range from 100 m to 50 km. This is an awesome functionality that is really useful in different contexts and analyses.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map1.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you are going to travel to some cities around the world you probably would like to know where the most important services are located. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transportation
+&lt;ul&gt;
+&lt;li&gt;Train Station&lt;/li&gt;
+&lt;li&gt;Parking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cultural places
+&lt;ul&gt;
+&lt;li&gt;Museum&lt;/li&gt;
+&lt;li&gt;Movie Theatre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Useful services
+&lt;ul&gt;
+&lt;li&gt;Pharmacy&lt;/li&gt;
+&lt;li&gt;Police&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We want to show you a case study in the center of Florence. Imagine that you are looking for a hotel that is near to the most important your amenities. We also would like to create an appealing map as usual with great icons.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map2.png&#34; alt=&#34;alternative text for search engines&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Would you like to open a new business? Try with Scrabble Maps and let us know how is going!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maps from statistical data</title>
+      <link>https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/</link>
+      <pubDate>Fri, 15 Mar 2019 12:20:19 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/</guid>
+      <description>&lt;p&gt;Access to weather information has increased enormously. Anyone with a smartphone has an app to check weather forecasts for at any given moment.
+On a daily basis, we are flooded with information on the internet, TV, and radio about climatic events such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first snowfall in New York;&lt;/li&gt;
+&lt;li&gt;Milan&amp;rsquo;s airport closing due to fog;&lt;/li&gt;
+&lt;li&gt;Children and the elderly are asked to stay at home during the central hours of the day due to torrid weather.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, we often find reports that show the temperature fluctuation, wind speed variability, and precipitation amounts in cities.&lt;/p&gt;
+&lt;p&gt;Last week, we requested the annual average values gathered by the meteorological stations in the major cities of Tuscany.
+Here is the excel report that we received.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;annual_average.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We immediately thought about how to report this data in an interactive map so that we can make correlation analyses between the averages and the topographical features of the territory.&lt;/p&gt;
+&lt;p&gt;Scribble Maps helps us a lot in this. Thanks to the geocode service it will be simple to copy the data from the Excel sheet and paste them on the appropriate spreadsheet.
+In just a few steps we got three heatmaps with georeferenced data through the geocode.&lt;/p&gt;
+&lt;p&gt;We put a topographic layer as a basemap, for example, google terrain.
+We can easily see that the lowest temperatures are recorded in the mountainous areas while the highest temperatures are in the locations closest to the sea.
+The rainiest areas are close to the mountain ranges.&lt;/p&gt;
+&lt;p&gt;We encourage you to replicate this analysis by taking other data from other weather stations in different regions or countries.&lt;/p&gt;
+&lt;p&gt;Students could look for their own region and study the data on a table of an excel sheet first, trying to establish the characteristics of the meteorological station by analyzing the three parameters (wind, rainfall, and temperature). After making their deductions it would be interesting to import the data into Scribble Maps to display them on a map and check if their assumptions were correct.&lt;/p&gt;
+&lt;p&gt;Furthermore, we want to recommend another use of the statistical data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You could also represent the life quality of major cities in the world. At this 
+&lt;a href=&#34;https://www.kaggle.com/divrikwicky/quality-of-life&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;, we found a ranking. Now we already know how to proceed!
+We have copied and pasted the data and created the map with the markers containing the ranking associated with the city.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do you have other statistical data to analyze? For example, data on crime? on smog? on poverty? Share your experiences with us.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/gallery/Heatmap_climatology_1981-2010.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/gallery/Heatmap_climatology_1981-2010_huff8e9b84bfad4fadfbe9249739ca03fa_914794_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;518&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/gallery/Rank_of_Quality_of_Life_per_Country.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/gallery/Rank_of_Quality_of_Life_per_Country_hu3692b8dc94996edffe27362e531d9279_1097264_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;519&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Make Thematic Maps Quickly</title>
+      <link>https://fraeli78.github.io/post/scribblemaps/make_thematic_maps_quickly/</link>
+      <pubDate>Fri, 15 Mar 2019 12:19:41 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/scribblemaps/make_thematic_maps_quickly/</guid>
+      <description>&lt;p&gt;Assume that for some reason you need to create some worldwide thematic maps. The maps should contain the national borders, main cities, main communication routes, rivers and lakes. Let us suppose you have a short time to finish the job and you have absolutely nothing at all in your archive. In other words, we have to solve this problem by using only information available on Geospatial Data Portals such as Natural Earth, NASA Earth Observations, The FAO GeoNetwork…, and so on. Over the years they have started to release free sources from global to regional, from agriculture to soils, administrative boundaries, population, marinas, and other themes.&lt;/p&gt;
+&lt;p&gt;Well, this premise justifies why to try Scribble Maps.&lt;/p&gt;
+&lt;p&gt;In this article, we focus on some data coming from the 
+&lt;a href=&#34;https://www.naturalearthdata.com/downloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Natural Earth&lt;/a&gt; portal and we show how to manage and share Physical and Cultural Geography Information in an easy way through Scribble Maps.&lt;/p&gt;
+&lt;p&gt;The maps below are created in a short time with an excellent graphics rendering. We just had to load the data and choose the right basemap as per the data contents. Below is the list of maps with the associated basemap:&lt;/p&gt;
+&lt;p&gt;Cultural data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_airports.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Airports&lt;/a&gt; =&amp;gt; Map Base Road;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_ports.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marinas&lt;/a&gt; =&amp;gt; National Geographic Education.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Physical data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/physical/ne_10m_geography_regions_elevation_points.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elevation Points&lt;/a&gt; =&amp;gt; Google Terrain;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/physical/ne_10m_glaciated_areas.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glaciated Areas&lt;/a&gt; =&amp;gt; ESRI Physical.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These maps can be a good starting point to share and discuss the main global geographic topics with students.
+For example, you may ask your students to collect videos and images related to the marker points around the world. Once they have finished collecting information for the 1st state it should be nice to share it to the rest of the class using Scribble Maps. 
+In this activity, each student can analyze the different basemap archives from Google maps and other providers (ESRI, Open Street Map, Map box, …). Once they have analyzed the Maps generated at the global level they could check which the best basemap is for the chosen area at the local level.&lt;/p&gt;
+&lt;p&gt;Let’s start, and share your maps with us!&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/make_thematic_maps_quickly/gallery/make_thematic_maps_quickly.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/make_thematic_maps_quickly/gallery/make_thematic_maps_quickly_huff8e9b84bfad4fadfbe9249739ca03fa_873393_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;518&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn how to create your own custom web maps</title>
+      <link>https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/</link>
+      <pubDate>Fri, 15 Mar 2019 12:17:21 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/</guid>
+      <description>&lt;p&gt;Since Google Maps released the API in 2005 Web maps became popular after giving web developers an easy way to drop custom apps in their sites with a minimal amount of new code.&lt;/p&gt;
+&lt;p&gt;Today’s Web maps are known as “slippy maps”. The user can freely pan and zoom in the map with fluid motions. The interface uses Ajax to dynamically load new portions of the map as needed without reloading the whole page.&lt;/p&gt;
+&lt;p&gt;Web maps are more prevalent now than ever before and they’ve never been easier to customize, match the look and feel of your interests to show:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contacts;&lt;/li&gt;
+&lt;li&gt;Events;&lt;/li&gt;
+&lt;li&gt;Searches;&lt;/li&gt;
+&lt;li&gt;Routing;&lt;/li&gt;
+&lt;li&gt;Historical information forecasts based on scientific data or a live data;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Scribble Maps&lt;/strong&gt; is an amazing framework for creating maps and is used by teachers to teach geography to students in a simple way. It is an effective medium to give your users geographic context for your data, services and your brand.
+In addition, it works in a very properly way on mobile phones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scribble Maps&lt;/strong&gt;  is primarily focused on map performance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Map application stays small;&lt;/li&gt;
+&lt;li&gt;Basemap tiles load fast;&lt;/li&gt;
+&lt;li&gt;Pan/zoom actions are smooth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Extra features are available through wide selection of plugin.&lt;/p&gt;
+&lt;p&gt;Through Scribble Maps it is easy to build a new map. You can customize it to match your site, look and feel and you can use free open platforms to build them with.&lt;/p&gt;
+&lt;p&gt;In the following we would like to give you some ideas on how a map can be beneficial for your website applications and for your studies and how you can make maps interact efficiently and effectively with the different things that are going on in and around it.&lt;/p&gt;
+&lt;p&gt;Various topics such as heat maps, big data and geolocation can be easily managed by Scribble Maps.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/1_heatmaps.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/1_heatmaps_hu8e478641346296075f2c395f1ed9bc92_244711_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/2_pop_density.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/2_pop_density_hu8e478641346296075f2c395f1ed9bc92_156701_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/3_import_spred.png&#34; &gt;
+  &lt;img data-src=&#34;https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/gallery/3_import_spred_hu8e478641346296075f2c395f1ed9bc92_332427_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Scribble Maps&lt;/strong&gt;  can be summarized as it follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Give you more control over how the google map is represented;&lt;/li&gt;
+&lt;li&gt;Offers some really interesting options for taking your analysis, reporting and presentations up a notch;&lt;/li&gt;
+&lt;li&gt;Creates beautiful looking maps;&lt;/li&gt;
+&lt;li&gt;More efficient at how it uses information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Scribble Maps&lt;/strong&gt;  is really a useful tool and will surely pave the way for a new approach for studying geography. As a matter of fact, it can be used by teachers and students as well as by companies and individuals. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opendata</title>
+      <link>https://fraeli78.github.io/post/opendata/</link>
+      <pubDate>Fri, 15 Mar 2019 10:19:54 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/opendata/</guid>
+      <description>&lt;h2 id=&#34;open-knowledge-is-any-content-information-or-data-that-people-are-free-to-use-re-use-and-redistribute--without-any-legal-technological-or-social-restriction---okihttpsokfnorgopendata&#34;&gt;&lt;strong&gt;‘Open knowledge’&lt;/strong&gt; is any content, information or data that people are free to use, re-use and redistribute — without any legal, technological or social restriction - &lt;strong&gt;
+&lt;a href=&#34;https://okfn.org/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OKI&lt;/a&gt;&lt;/strong&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengeohub.org/brief-introduction-open-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A brief introduction to Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://training.datapolitan.com/#intro-open-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://blog.mapbox.com/open-data-day-2019-32551ed1b30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Quartz/bad-data-guide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Quartz guide to bad data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;worldwide&#34;&gt;Worldwide&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spatialreserves.wordpress.com/2019/02/18/the-top-10-most-useful-geospatial-data-portals-revisited/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Top 10 Most Useful Geospatial Data Portals&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://dragons8mycat.com/gis-data-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free GIS Data sources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/awesomedata/awesome-public-datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.opendatanetwork.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Network&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://dataportals.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Portals from Around the World&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.geonames.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geonames&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openaddresses.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The free and open global address collection&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://registry.opendata.aws/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registry of Open Data on AWS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://datasets.wri.org/dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Resource Institute&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://data.worldbank.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Bank Open Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.worldpop.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Population Distribution&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.prb.org/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Population Reference Bureau&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://data.humdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Humanitarian Data Exchange&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://opendata.stackexchange.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Stack Exchange&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.protectedplanet.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discover the world&amp;rsquo;s protected areas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Packaged Core Datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.opengeospatial.org/resources/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D - vector data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gadm.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GADM maps and data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://noaa-fisheries.data.socrata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NOAA Fisheries Open Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://geocommons.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCommons Archive&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openflights.org/data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Airport, airline and route data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://datacatalog.worldbank.org/dataset/world-development-indicators&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Development Indicators&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.google.com/publicdata/directory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Public Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;dtm&#34;&gt;DTM&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://dwtkns.com/srtm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;90 Meter - SRTM Tile Grabber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://dwtkns.com/srtm30m/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30-Meter - SRTM Tile Downloader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;land-data&#34;&gt;Land Data&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Envirometrix/LandGISmaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LandGIS - Open Land Data Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;europe&#34;&gt;Europe&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.europeandataportal.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Data Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corine Land Cover&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;usa&#34;&gt;USA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.data.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The home of the U.S. Government’s open data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nces.ed.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Center for Education Statistics (NCES)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://demographics.coopercenter.org/guide-to-publicly-available-demographic-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USA - Guide to Publicly Available Demographic Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://viewer.nationalmap.gov/advanced-viewer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USA - National Map Viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.medicare.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Centers for Medicare &amp;amp; Medicaid Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://earthexplorer.usgs.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Explorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Census - National Statistic Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/programs-surveys/geography.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore this visual interactive of US Census geographic areas and definitions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/programs-surveys/acs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The American Community Survey (ACS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American FactFinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FactFinder - downloading data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nassgeodata.gmu.edu/CropScape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cropland Data Layer - Agricolture GIS data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.ct.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welcome to Connecticut Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mass.gov/service-details/massgis-data-layers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repository of Massachusetts GIS Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cambridgema.gov/GIS/gisdatadictionary.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repository for City of Cambridge Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.geoplan.ufl.edu/gis-data-source-links/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.opendataphilly.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philadelphia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.boston.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boston&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cambridgema.gov/departments/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cambridge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;api&#34;&gt;API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tylertech.com/products/socrata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Socrata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://zenodo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/open-data/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenData - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=open%20data&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opendata - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/opendata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [opendata]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

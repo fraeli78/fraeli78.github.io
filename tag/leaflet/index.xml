@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaflet | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/leaflet/</link>
+      <atom:link href="https://fraeli78.github.io/tag/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leaflet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:20:54 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>Leaflet</title>
+      <link>https://fraeli78.github.io/tag/leaflet/</link>
+    </image>
+    
+    <item>
+      <title>Leaflet</title>
+      <link>https://fraeli78.github.io/post/leaflet/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:20:54 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/leaflet/summary/</guid>
+      <description>&lt;h2 id=&#34;leaflethttpsleafletjscom-an-open-source-javascript-library-for-mobile-friendly-interactive-maps-created-by-vladimir-agafonkinhttpsagafonkincom&#34;&gt;
+&lt;a href=&#34;https://leafletjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet&lt;/a&gt; an open-source JavaScript library for mobile-friendly interactive maps created by 
+&lt;a href=&#34;https://agafonkin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vladimir Agafonkin&lt;/a&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;welcome-to-the-web-map-workshop-series-by-duspvizhttpduspvizmiteduweb-map-workshop&#34;&gt;Welcome to the Web Map Workshop series by &amp;ldquo;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DUSPviz&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/code-your-first-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to Websites (HTML/CSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/bootstrap-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Bootstrap: Website Frameworks and Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/leaflet-js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Map Fundamentals/Make a Basic Web Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/javascript-an-introduction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to JavaScript: Core Concepts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/leaflet-javascript-interactions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript Interactions and Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/map-symbolization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choropleth Mapping and Custom Symbolization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/databases-leaflet-cartodb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to PostGIS: Using CARTO and Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/cartodb-data-collection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Mapping: Data Collection with PHP and the CARTO API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://duspviz.mit.edu/web-map-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Mapping: Leaflet with PostGIS/NodeJS/Express&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;leaflet-map-templates-by-data-visualization-for-allhttpsdatavizforallorg&#34;&gt;Leaflet Map Templates by &amp;ldquo;
+&lt;a href=&#34;https://datavizforall.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Visualization for All&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-with-google-sheets.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Maps with Google Sheets template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-storymaps-with-google-sheets.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Storymaps with Google Sheets and Scrolling Narrative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-with-socrata.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Maps with Socrata API Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-maps-open-apis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pull Open Data into Leaflet Map with APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;two-weeks-of-leaflet-by-spatial-galaxyhttpspatialgalaxynet&#34;&gt;Two Weeks of Leaflet by &amp;ldquo;
+&lt;a href=&#34;http://spatialgalaxy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Galaxy&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/23/two-weeks-of-leaflet-day-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Two Weeks of Leaflet - Day 1 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/24/leaflet-day-2-adding-a-marker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 2 - Adding a Marker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/25/leaflet-day-3-the-trail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 3 - The Trail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/26/leaflet-day-4-basemaps-and-overlays/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 4 - Basemaps and Overlays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/27/leaflet-day-5-working-with-features/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 5 - Working with Features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/28/leaflet-day-6-geopackage-layers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 6 - GeoPackage Layers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/01/30/leaflet-day-7-coordinates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 7 - Coordinates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/01/leaflet-day-8-zoom-to-feature/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 8 - Zoom to Feature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Leaflet Day 9 - Calculating Distance with Turf.js](Leaflet Day 9 - Calculating Distance with Turf.js)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/06/leaflet-day-10-adding-a-link-to-a-popup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 10 - Adding a Link to a Popup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/08/leaflet-day-11-plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 11 - Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/09/leaflet-day-12-create-a-leaflet-map-from-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 12 - Create a Leaflet Map from QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/10/leaflet-day-13-styling-with-a-plugin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 13 - Styling with a Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://spatialgalaxy.net/2019/02/11/leaflet-day-14-image-overlay-and-wrap-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Day 14 - Image Overlay and Wrap-up&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;using-leaflet-with-shiny-by-rstudiohttpswwwrstudiocom&#34;&gt;Using Leaflet with Shiny by &amp;ldquo;
+&lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;&amp;rdquo;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rstudio.github.io/leaflet/shiny.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet for R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publishing Maps to the Web - Bryce Mecum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bl.ocks.org/pattyf/raw/3bc3a95a3047f132b253eec4250fabca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a Leaflet Map and publishing it on RPubs - Patty Frontiera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/AugustT/shiny_geolocation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geolocate User Location in R Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.kimberlycoffey.com/blog/2016/2/13/mlz90wjw0k76446xkg262prvjp0l8u&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny APP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;make-web-map-with-leaflet&#34;&gt;Make Web Map with Leaflet&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://luxembourgjs.github.io/leaflet-demo/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://maptimeboston.github.io/leaflet-intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet: Make a web map!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/geografa/foss4g2014-workshops/blob/master/Leaflet-and-Mapbox-JavaScript-API-Fundamentals.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet and Mapbox JavaScript API Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/petermooney/foss4VGI/blob/master/MappingWithLeaflet/Visualing_VGI_With_Leaflet_PeterMooney.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualising VGI with Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bl.ocks.org/rgdonohue/bb2fdafab5ee7532df52&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perceptual scaling of prop symbols&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.patrick-wied.at/static/heatmapjs/example-heatmap-leaflet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heatmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.ucar.edu/github-web-hosting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Web Hosting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/uwcart/cartographic-perspectives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cartographic Perspectives &amp;ldquo;On The Horizon&amp;rdquo; Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jmmluna.github.io/Leaflet.geojsonCSS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geojson CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jmmluna.github.io/Leaflet.geojsonCSS/demo-layer-and-feature-style/demo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoJSON CSS Vector layer and vector feature style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/19209969/load-google-spreadsheet-to-visualize-with-leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Load Google Spreadsheet to visualize with leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datavizforall.org/leaflet-polygon-map-multi-year-tabs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet Thematic Polygon Map with Multi-Year Tabs template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rdrn.me/leaflet-maps-google-sheets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet maps with data from Google Sheets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;leaflet-zip-code-map&#34;&gt;Leaflet Zip Code Map&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dillonshook.com/leaflet-zip-code-map-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dillonshook.com/leaflet-zip-code-map-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plugin&#34;&gt;Plugin&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;great-leaflet-pluginshttpsleafletjscompluginshtml&#34;&gt;Great Leaflet 
+&lt;a href=&#34;https://leafletjs.com/plugins.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plugins&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/calvinmetcalf/leaflet-ajax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ajax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mapbox/leaflet-omnivore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omnivore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/calvinmetcalf/leaflet.shapefile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shapefile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/lvoogdt/Leaflet.awesome-markers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome-markers plugin v2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://labs.mapbox.com/maki-icons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maki - Icon set made for map designers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/jseppi/Leaflet.MakiMarkers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MakiMarkers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Leaflet/Leaflet.markercluster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marker cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Leaflet/Leaflet.draw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Draw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/codeofsumit/leaflet.pm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geometry Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/k4r573n/leaflet-control-osm-geocoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control osm geocoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/perliedman/leaflet-control-geocoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control Geocoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/stefanocudini/leaflet-search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/noncomputable/AgentMaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AgentMaps - Social Simulations on Interactive Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://millermountain.com/geospatialblog/2018/06/26/postgis-data-in-leaflet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working with PostGIS data from within Leaflet.js (or any other client side mapping API)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/domoritz/leaflet-locatecontrol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geolocate the user with many options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/nickpeihl/leaflet-sidebar-v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A responsive sidebar with tabs just for Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.coffeegnome.net/synchronization-of-leaflet-js-and-google-spreadsheet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synchronization of leaflet.js and google spreadsheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@tomchadwin/where-next-for-qgis2web-2c39e03b4131&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qgis2web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;gallery&#34;&gt;Gallery&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://roadstorome.moovellab.com/explore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Urban Mobility Fingerprint and Street DNA graphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://source.opennews.org/articles/draw-your-own-election-adventure/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Draw Your Own Election Adventure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heatmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cartographicperspectives.org/index.php/journal/article/view/cp76-donohue-et-al/1307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Series Proportional Symbol Maps with Leaflet and jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cartographicperspectives.org/index.php/journal/article/view/cp78-sack-et-al/1359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interactive and Multivariate Choropleth Maps with D3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geography.wisc.edu/geography-575-spring-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student final project - Geography 575 spring 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://geog575-spring2016.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Madison Geography 575 Final Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gisteckno.com/pmc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plano Mutual Cemetery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.openrailwaymap.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRailwayMap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dopa-explorer.jrc.ec.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Observatory for Protected Areas (DOPA) Explorer 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.renewables.ninja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renewable energy simulations, ninja style&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;useful-tools-for-daily-activity&#34;&gt;Useful tools for daily activity&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://colorbrewer2.org/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorbrewer 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.axismaps.com/guide/data/data-classification/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Basics of Data Classification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Your Friendly Guide to Colors in Data Visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bivariate Choropleth Maps: A How-to Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/google/palette.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Script for generating color palettes for use with graphs, charts and cartography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datatables.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced interaction controls to your HTML tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://react-leaflet.js.org/docs/en/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;React-Leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/leaflet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [leaflet]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/leaflet/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leaflet - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=J7pFiXh-ydA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Build a Maps App with Leaflet - React/Node.js/Express/MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

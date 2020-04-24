@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDAL | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/gdal/</link>
+      <atom:link href="https://fraeli78.github.io/tag/gdal/index.xml" rel="self" type="application/rss+xml" />
+    <description>GDAL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:16:55 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>GDAL</title>
+      <link>https://fraeli78.github.io/tag/gdal/</link>
+    </image>
+    
+    <item>
+      <title>GDAL</title>
+      <link>https://fraeli78.github.io/post/gdal/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:16:55 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/gdal/summary/</guid>
+      <description>&lt;h2 id=&#34;gdalhttpswwwgdalorg-is-a-translator-library-for-raster-and-vector-geospatial-data-formats-that-is-released-under-an-xmit-style-open-source-license-by-the-open-source-geospatial-foundation&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.gdal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDAL&lt;/a&gt;&lt;/strong&gt; is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation.&lt;/h2&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GDAL/OGR 
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/gdal_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Welcome to the Python GDAL/OGR 
+&lt;a href=&#34;https://pcjericks.github.io/py-gdalogr-cookbook/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ogre.adc4gis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ogr2ogr Converter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://geojson.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoJSON data converter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mapshaper.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapshaper&lt;/a&gt; - 
+&lt;a href=&#34;https://datavizforall.org/convert-edit-join-and-dissolve-with-mapshaper-org.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/gdal/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gdal - articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/ogr2ogr/archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ogr2ogr - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gdal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [gdal]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/ogr2ogr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [ogr2ogr]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

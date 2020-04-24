@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Filippo Maria Raeli</title>
-    <link>https://filippomariaraeli.com/publication/</link>
-      <atom:link href="https://filippomariaraeli.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fraeli78.github.io/publication/</link>
+      <atom:link href="https://fraeli78.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
-      <link>https://filippomariaraeli.com/publication/</link>
+      <link>https://fraeli78.github.io/publication/</link>
     </image>
     
   </channel>

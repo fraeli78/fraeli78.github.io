@@ -30,7 +30,7 @@
   <meta name="description" content="GIS Developer - Data Analyst - Web Design">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://filippomariaraeli.com/">
+  <link rel="alternate" hreflang="en-us" href="https://fraeli78.github.io/">
 
   
 
@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137819962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137819962-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +259,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://filippomariaraeli.com/">
+  <link rel="canonical" href="https://fraeli78.github.io/">
 
   
   
@@ -237,12 +275,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Filippo Maria Raeli">
-  <meta property="og:url" content="https://filippomariaraeli.com/">
+  <meta property="og:url" content="https://fraeli78.github.io/">
   <meta property="og:title" content="Filippo Maria Raeli">
-  <meta property="og:description" content="GIS Developer - Data Analyst - Web Design"><meta property="og:image" content="https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="GIS Developer - Data Analyst - Web Design"><meta property="og:image" content="https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2019-04-12T10:40:10&#43;02:00">
   
 
   
@@ -253,10 +291,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://filippomariaraeli.com/?q={search_term_string}",
+    "target": "https://fraeli78.github.io/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "https://filippomariaraeli.com/"
+  "url": "https://fraeli78.github.io/"
 }
 </script>
 
@@ -265,6 +303,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#4caf50",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#4caf50"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -375,6 +443,57 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/tutorial/"><span>Tutorials</span></a>
         </li>
 
         
@@ -608,7 +727,7 @@
     <p>Over the past 10 years, I have had extensive experience in managing nautical/urban cartographic data by GIS. I have had the pleasure of working for public and private companies as well as spending a one-year period in university research.</p>
 <p>As modern technology is my passion, I have continued to work on projects centered around GIS, WebGIS, Database handling, and Python. Just to name a few.</p>
 <p>Recently, I have strongly completed the 1st level Master&rsquo;s degree in Cyber Security to improve my knowledge.</p>
-<p>I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.</p>
+<p>I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my Labrador in the parks.</p>
 
 
     <div class="row">
@@ -920,6 +1039,557 @@
     </div>
     
     
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="posts" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Posts</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/web_development/summary/" >Web development</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Useful free sources online.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 12, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/web_development/summary/" >
+      <img src="/post/web_development/summary/featured_huac4773d40c531d531facfbbebf99754c_49860_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/blog/summary/" >Blog</a>
+    </h3>
+
+    
+    <div class="article-style">
+      A great blog list
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/blog/summary/" >
+      <img src="/post/blog/summary/featured_hub8ca153c445a6ff472e1eff1584fe80b_152090_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/git_github/summary/" >Git&amp;GitHub</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Useful free sources online.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/git_github/summary/" >
+      <img src="/post/git_github/summary/featured_hua092139383a1200c3fb63a34889d6ca9_44512_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/licences/summary/" >Licenses</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Useful free sources online.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/licences/summary/" >
+      <img src="/post/licences/summary/featured_hua092139383a1200c3fb63a34889d6ca9_108392_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/googlemaps/summary/" >Google Maps</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Useful free sources online.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/googlemaps/summary/" >
+      <img src="/post/googlemaps/summary/featured_hu7a425d213832fa53e8158716fc414a90_46511_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/post/">
+        See all posts
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
   </div>
 </div>
 

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opendata | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/opendata/</link>
+      <atom:link href="https://fraeli78.github.io/tag/opendata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opendata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 10:19:54 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>Opendata</title>
+      <link>https://fraeli78.github.io/tag/opendata/</link>
+    </image>
+    
+    <item>
+      <title>Opendata</title>
+      <link>https://fraeli78.github.io/post/opendata/</link>
+      <pubDate>Fri, 15 Mar 2019 10:19:54 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/opendata/</guid>
+      <description>&lt;h2 id=&#34;open-knowledge-is-any-content-information-or-data-that-people-are-free-to-use-re-use-and-redistribute--without-any-legal-technological-or-social-restriction---okihttpsokfnorgopendata&#34;&gt;&lt;strong&gt;‘Open knowledge’&lt;/strong&gt; is any content, information or data that people are free to use, re-use and redistribute — without any legal, technological or social restriction - &lt;strong&gt;
+&lt;a href=&#34;https://okfn.org/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OKI&lt;/a&gt;&lt;/strong&gt;.&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengeohub.org/brief-introduction-open-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A brief introduction to Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://training.datapolitan.com/#intro-open-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://blog.mapbox.com/open-data-day-2019-32551ed1b30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Quartz/bad-data-guide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Quartz guide to bad data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;worldwide&#34;&gt;Worldwide&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spatialreserves.wordpress.com/2019/02/18/the-top-10-most-useful-geospatial-data-portals-revisited/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Top 10 Most Useful Geospatial Data Portals&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://dragons8mycat.com/gis-data-sources/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free GIS Data sources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/awesomedata/awesome-public-datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.opendatanetwork.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Network&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://dataportals.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Portals from Around the World&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.geonames.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geonames&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openaddresses.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The free and open global address collection&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://registry.opendata.aws/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registry of Open Data on AWS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://datasets.wri.org/dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Resource Institute&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://data.worldbank.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Bank Open Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.worldpop.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Population Distribution&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.prb.org/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Population Reference Bureau&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://data.humdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Humanitarian Data Exchange&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://opendata.stackexchange.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Stack Exchange&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.protectedplanet.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discover the world&amp;rsquo;s protected areas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Packaged Core Datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.opengeospatial.org/resources/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D - vector data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gadm.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GADM maps and data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://noaa-fisheries.data.socrata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NOAA Fisheries Open Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://geocommons.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCommons Archive&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openflights.org/data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Airport, airline and route data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://datacatalog.worldbank.org/dataset/world-development-indicators&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Development Indicators&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.google.com/publicdata/directory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Public Data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;dtm&#34;&gt;DTM&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://dwtkns.com/srtm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;90 Meter - SRTM Tile Grabber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://dwtkns.com/srtm30m/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30-Meter - SRTM Tile Downloader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;land-data&#34;&gt;Land Data&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Envirometrix/LandGISmaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LandGIS - Open Land Data Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;europe&#34;&gt;Europe&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.europeandataportal.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Data Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corine Land Cover&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;usa&#34;&gt;USA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.data.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The home of the U.S. Government’s open data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nces.ed.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Center for Education Statistics (NCES)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://demographics.coopercenter.org/guide-to-publicly-available-demographic-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USA - Guide to Publicly Available Demographic Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://viewer.nationalmap.gov/advanced-viewer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USA - National Map Viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.medicare.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Centers for Medicare &amp;amp; Medicaid Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://earthexplorer.usgs.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Explorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Census - National Statistic Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/programs-surveys/geography.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore this visual interactive of US Census geographic areas and definitions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.census.gov/programs-surveys/acs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The American Community Survey (ACS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American FactFinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FactFinder - downloading data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nassgeodata.gmu.edu/CropScape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cropland Data Layer - Agricolture GIS data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.ct.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welcome to Connecticut Open Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mass.gov/service-details/massgis-data-layers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repository of Massachusetts GIS Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cambridgema.gov/GIS/gisdatadictionary.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repository for City of Cambridge Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.geoplan.ufl.edu/gis-data-source-links/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.opendataphilly.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philadelphia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data.boston.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boston&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cambridgema.gov/departments/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cambridge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;api&#34;&gt;API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tylertech.com/products/socrata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Socrata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://zenodo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tag/open-data/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenData - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sciencedirect&#34;&gt;ScienceDirect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/search/advanced?qs=open%20data&amp;amp;show=25&amp;amp;sortBy=relevance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opendata - articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/opendata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [opendata]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

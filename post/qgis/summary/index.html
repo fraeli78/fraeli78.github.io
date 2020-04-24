@@ -1,0 +1,1231 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Filippo Maria Raeli">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The most comprehensive and free sources.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://fraeli78.github.io/post/qgis/summary/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137819962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137819962-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://fraeli78.github.io/post/qgis/summary/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Filippo Maria Raeli">
+  <meta property="og:url" content="https://fraeli78.github.io/post/qgis/summary/">
+  <meta property="og:title" content="QGIS | Filippo Maria Raeli">
+  <meta property="og:description" content="The most comprehensive and free sources."><meta property="og:image" content="https://fraeli78.github.io/post/qgis/summary/featured.png">
+  <meta property="twitter:image" content="https://fraeli78.github.io/post/qgis/summary/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-03-15T20:15:32&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-03-15T20:15:32&#43;01:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://fraeli78.github.io/post/qgis/summary/"
+  },
+  "headline": "QGIS",
+  
+  "image": [
+    "https://fraeli78.github.io/post/qgis/summary/featured.png"
+  ],
+  
+  "datePublished": "2019-03-15T20:15:32+01:00",
+  "dateModified": "2019-03-15T20:15:32+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Filippo Maria Raeli"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Filippo Maria Raeli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "The most comprehensive and free sources."
+}
+</script>
+
+  
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#4caf50",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#4caf50"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>QGIS | Filippo Maria Raeli</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu47f45b68ddd45e012615275fa830d947_809_0x70_resize_lanczos_2.png" alt="Filippo Maria Raeli"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu47f45b68ddd45e012615275fa830d947_809_0x70_resize_lanczos_2.png" alt="Filippo Maria Raeli"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/tutorial/"><span>Tutorials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>QGIS</h1>
+
+  
+  <p class="page-subtitle">Listed on the page, you will find the most comprehensive and free sources online.</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/desktop-gis/">Desktop GIS</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 580px; max-height: 426px;">
+  <div style="position: relative">
+    <img src="/post/qgis/summary/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Image credit: <a href="https://www.qgis.org/en/site/"><strong>QGIS</strong></a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="qgishttpsqgisorgensite---free-and-open-source-geographic-information-system-to-create-edit-visualise-analyse-and-publish-geospatial-information-on-windows-mac-linux-bsd-android-coming-soon"><strong>
+<a href="https://qgis.org/en/site/" target="_blank" rel="noopener">QGIS</a></strong> - Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon).</h2>
+<h3 id="introduction">Introduction</h3>
+<ul>
+<li>
+<a href="https://docs.google.com/presentation/d/15fBntItxpOk3V8ZVmg0g6Ox5-ZylInN2zVpVBSrKi6k/edit#slide=id.g220367a49a_0_104" target="_blank" rel="noopener">Behind the scenes of QGIS.ORG</a></li>
+<li>
+<a href="https://www.flickr.com/groups/qgis/" target="_blank" rel="noopener">QGIS - Map Showcase</a></li>
+</ul>
+<h3 id="tutorials">Tutorials</h3>
+<ul>
+<li>
+<a href="https://live.osgeo.org/en/quickstart/qgis_quickstart.html" target="_blank" rel="noopener">QGIS Quickstart</a></li>
+<li>
+<a href="https://north-road.com/qgis-3-0-shortcuts/" target="_blank" rel="noopener">QGIS 3.4 shortcuts guide</a></li>
+<li>
+<a href="https://opengislab.com/blog/2019/2/5/tips-for-creating-arcgis-like-symbology-in-qgis?format=amp" target="_blank" rel="noopener">Tips for Creating ArcGIS-like Symbology in QGIS</a></li>
+<li>
+<a href="https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html" target="_blank" rel="noopener">How to add Google Maps layers in QGIS 3</a></li>
+<li>
+<a href="http://learngis.uk/creating-statistical-dot-density-map-qgis/" target="_blank" rel="noopener">Creating a statistical dot density map with QGIS</a></li>
+<li>
+<a href="https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses" target="_blank" rel="noopener">Geocoding Addresses Tutorial</a></li>
+<li>
+<a href="https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization" target="_blank" rel="noopener">Using Python and QGIS for geospatial visualizations - a Case Study</a></li>
+<li>
+<a href="https://docs.qgis.org/testing/en/docs/training_manual/spatial_databases/spatial_queries.html" target="_blank" rel="noopener">Spatial Queries</a></li>
+<li>Video
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=GAPPQaULmGM" target="_blank" rel="noopener">Animating markers using MMQGIS</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=nHrFOPf1UGw" target="_blank" rel="noopener">Using the Time Manager plug-in</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="plugins">Plugins</h3>
+<ul>
+<li>
+<a href="https://medium.com/@compatt84/qweetgis-qgis-3-plugin-for-twitter-93005f2e5ec8" target="_blank" rel="noopener">Qweetgis — QGIS 3 plugin for Twitter</a></li>
+<li>
+<a href="http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/" target="_blank" rel="noopener">OpenRouteService API&rsquo;s</a></li>
+<li>
+<a href="http://michaelminn.com/linux/mmqgis/" target="_blank" rel="noopener">MMQGIS</a></li>
+<li>
+<a href="https://anitagraser.com/tag/time-manager/" target="_blank" rel="noopener">Time Manager</a></li>
+<li>
+<a href="https://www.lutraconsulting.co.uk/blog/2018/10/17/qgis3d-new-features-qgis3-4/" target="_blank" rel="noopener">3D features in QGIS 3.4</a></li>
+<li>
+<a href="https://anitagraser.com/2019/01/26/movement-data-in-gis-19-splitting-trajectories-by-date/amp/" target="_blank" rel="noopener">Splitting trajectories by date</a></li>
+<li>
+<a href="https://north-road.com/2019/02/04/announcing-our-slyr-funding-drive/" target="_blank" rel="noopener">MXD to QGIS</a></li>
+<li>
+<a href="https://github.com/inasafe/inasafe/tree/master" target="_blank" rel="noopener">InaSAFE</a></li>
+<li>
+<a href="https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py" target="_blank" rel="noopener">QGIS basemaps</a></li>
+</ul>
+<h3 id="tools">Tools</h3>
+<ul>
+<li>
+<a href="http://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3" target="_blank" rel="noopener">colorbrewer 2.0</a></li>
+<li>
+<a href="https://ezgif.com/maker" target="_blank" rel="noopener">Ezgif - Animated GIF Maker</a></li>
+<li>
+<a href="http://gifmaker.org/" target="_blank" rel="noopener">GifMaker</a></li>
+</ul>
+<h3 id="useful-sources-in-italian">Useful sources in Italian</h3>
+<ul>
+<li>
+<a href="http://hfcqgis.opendatasicilia.it/it/latest/index.html" target="_blank" rel="noopener">Help for calculator functions of QGIS fields</a></li>
+<li>
+<a href="http://qgis4dummies.wikidot.com/" target="_blank" rel="noopener">Qgis4dummies</a></li>
+<li>
+<a href="https://medium.com/coseerobe/qgis-e-la-stampa-in-pdf-layered-a067402e175f" target="_blank" rel="noopener">QGIS and layered PDF printing</a></li>
+<li>
+<a href="https://medium.com/tantotanto/qgis-relazioni-moduli-e-widget-illustrati-con-un-semplice-caso-duso-2dc5ab47770e" target="_blank" rel="noopener">QGIS, reports, modules and widgets, illustrated with a simple use case</a></li>
+<li>
+<a href="https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa" target="_blank" rel="noopener">Come raccogliere dati geolocalizzati</a></li>
+</ul>
+<h3 id="medium">Medium</h3>
+<ul>
+<li>
+<p>
+<a href="https://medium.com/tag/qgis/latest" target="_blank" rel="noopener">QGIS - articles</a></p>
+</li>
+<li>
+<p>
+<a href="https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19" target="_blank" rel="noopener">Introduction to QGIS Time Manage</a></p>
+</li>
+<li>
+<p>
+<a href="https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67" target="_blank" rel="noopener">Geospatial animations with QGIS Atlas</a></p>
+</li>
+<li>
+<p>
+<a href="https://medium.com/maptiler/map-service-for-qgis3-without-a-server-51d53aee92cb" target="_blank" rel="noopener">Map service for QGIS3 without a server</a></p>
+</li>
+<li>
+<h4 id="3d">3D</h4>
+<ul>
+<li>
+<a href="https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1" target="_blank" rel="noopener">Creating 3D map in QGIS</a></li>
+<li>
+<a href="https://medium.com/@loosegoat/qgis-data-visualisation-c0579c7472dd" target="_blank" rel="noopener">QGIS data visualisation</a></li>
+<li>
+<a href="https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4" target="_blank" rel="noopener">New QGIS and 3D visualization</a></li>
+<li>
+<a href="https://medium.com/the-pointscene-diaries/qgis-3d-buildings-tutorial-1e0111fcd766" target="_blank" rel="noopener">CityGML and 3D data in QGIS</a></li>
+<li>
+<a href="https://medium.com/@tjukanov/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8" target="_blank" rel="noopener">QGIS magic — Old raster maps to 3D</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="news">News</h3>
+<ul>
+<li>
+<a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorcreation.html#id35" target="_blank" rel="noopener">Array of offset (parallel) lines NEW in 3.4</a></li>
+<li>
+<a href="http://changelog.qgis.org/en/qgis/version/3.6.0/#sld-export-for-raster-styles" target="_blank" rel="noopener">SLD export for raster styles</a></li>
+</ul>
+<h3 id="stack-overflow">Stack Overflow</h3>
+<ul>
+<li>
+<a href="https://stackoverflow.com/questions/tagged/qgis" target="_blank" rel="noopener">Questions tagged [qgis]</a></li>
+<li>
+<a href="https://gis.stackexchange.com/questions/7199/how-do-i-calculate-the-latitude-and-longitude-of-points-using-qgis" target="_blank" rel="noopener">calculate the latitude and longitude of points using QGIS?</a></li>
+<li>
+<a href="https://gis.stackexchange.com/questions/308985/values-on-top-of-each-bar-of-a-histogram-in-qgis" target="_blank" rel="noopener">values on top of each bar of a histogram created with QGIS</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/qgis/">QGIS</a>
+  
+  <a class="badge badge-light" href="/tag/gis/">GIS</a>
+  
+  <a class="badge badge-light" href="/tag/tutorials/">Tutorials</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://fraeli78.github.io/post/qgis/summary/&amp;text=QGIS" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://fraeli78.github.io/post/qgis/summary/&amp;t=QGIS" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=QGIS&amp;body=https://fraeli78.github.io/post/qgis/summary/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://fraeli78.github.io/post/qgis/summary/&amp;title=QGIS" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=QGIS%20https://fraeli78.github.io/post/qgis/summary/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://fraeli78.github.io/post/qgis/summary/&amp;title=QGIS" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/filippo-maria-raeli/avatar_hud66aca7d5476d36a3320dad234f0a502_19158_270x270_fill_q90_lanczos_center.jpg" alt="Filippo Maria Raeli">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://fraeli78.github.io/">Filippo Maria Raeli</a></h5>
+        <h6 class="card-subtitle">GIS Developer - Data Analyst - Web Design</h6>
+        <p class="card-text">My passion is learning the advances of modern technology and how to piece together a solution to every problem that I would like to expose myself to and be able to resolve different issues in difficult situations.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/filippomariaraeli/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/polpo26" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/fraeli78" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/gis/summary/">GIS</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

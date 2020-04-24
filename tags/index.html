@@ -30,7 +30,7 @@
   <meta name="description" content="GIS Developer - Data Analyst - Web Design">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://filippomariaraeli.com/tags/">
+  <link rel="alternate" hreflang="en-us" href="https://fraeli78.github.io/tags/">
 
   
 
@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137819962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137819962-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -219,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://filippomariaraeli.com/tags/">
+  <link rel="canonical" href="https://fraeli78.github.io/tags/">
 
   
   
@@ -235,20 +273,50 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Filippo Maria Raeli">
-  <meta property="og:url" content="https://filippomariaraeli.com/tags/">
+  <meta property="og:url" content="https://fraeli78.github.io/tags/">
   <meta property="og:title" content="Tags | Filippo Maria Raeli">
-  <meta property="og:description" content="GIS Developer - Data Analyst - Web Design"><meta property="og:image" content="https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="https://filippomariaraeli.com/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="GIS Developer - Data Analyst - Web Design"><meta property="og:image" content="https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
-    
-  
-
+    <meta property="og:updated_time" content="2019-03-15T20:25:24&#43;01:00">
   
 
+  
+
 
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#4caf50",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#4caf50"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -387,6 +455,57 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/tutorial/"><span>Tutorials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
@@ -468,8 +587,117 @@
 
   
   
+    
+    
+    
+    <div>
+      <h2><a href="/tag/blog/" >Blog</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/git/" >Git</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/github/" >GitHub</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/licence/" >Licence</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/googlemaps/" >GoogleMaps</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/leaflet/" >Leaflet</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/webgis/" >WebGIS</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/python/" >Python</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/gdal/" >GDAL</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/postgis/" >PostGIS</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/tags/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 

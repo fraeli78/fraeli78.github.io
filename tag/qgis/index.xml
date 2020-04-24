@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QGIS | Filippo Maria Raeli</title>
+    <link>https://fraeli78.github.io/tag/qgis/</link>
+      <atom:link href="https://fraeli78.github.io/tag/qgis/index.xml" rel="self" type="application/rss+xml" />
+    <description>QGIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 20:15:32 +0100</lastBuildDate>
+    <image>
+      <url>https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_300x300_fit_lanczos_2.png</url>
+      <title>QGIS</title>
+      <link>https://fraeli78.github.io/tag/qgis/</link>
+    </image>
+    
+    <item>
+      <title>QGIS</title>
+      <link>https://fraeli78.github.io/post/qgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:32 +0100</pubDate>
+      <guid>https://fraeli78.github.io/post/qgis/summary/</guid>
+      <description>&lt;h2 id=&#34;qgishttpsqgisorgensite---free-and-open-source-geographic-information-system-to-create-edit-visualise-analyse-and-publish-geospatial-information-on-windows-mac-linux-bsd-android-coming-soon&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;https://qgis.org/en/site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/strong&gt; - Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon).&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/15fBntItxpOk3V8ZVmg0g6Ox5-ZylInN2zVpVBSrKi6k/edit#slide=id.g220367a49a_0_104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behind the scenes of QGIS.ORG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.flickr.com/groups/qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - Map Showcase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://live.osgeo.org/en/quickstart/qgis_quickstart.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS Quickstart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/qgis-3-0-shortcuts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS 3.4 shortcuts guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opengislab.com/blog/2019/2/5/tips-for-creating-arcgis-like-symbology-in-qgis?format=amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Creating ArcGIS-like Symbology in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to add Google Maps layers in QGIS 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://learngis.uk/creating-statistical-dot-density-map-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating a statistical dot density map with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocoding Addresses Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Python and QGIS for geospatial visualizations - a Case Study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/training_manual/spatial_databases/spatial_queries.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial Queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=GAPPQaULmGM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animating markers using MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=nHrFOPf1UGw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using the Time Manager plug-in&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plugins&#34;&gt;Plugins&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@compatt84/qweetgis-qgis-3-plugin-for-twitter-93005f2e5ec8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qweetgis — QGIS 3 plugin for Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRouteService API&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://michaelminn.com/linux/mmqgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMQGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/tag/time-manager/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lutraconsulting.co.uk/blog/2018/10/17/qgis3d-new-features-qgis3-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D features in QGIS 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anitagraser.com/2019/01/26/movement-data-in-gis-19-splitting-trajectories-by-date/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Splitting trajectories by date&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://north-road.com/2019/02/04/announcing-our-slyr-funding-drive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MXD to QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/inasafe/inasafe/tree/master&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InaSAFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS basemaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;colorbrewer 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ezgif.com/maker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ezgif - Animated GIF Maker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://gifmaker.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GifMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;useful-sources-in-italian&#34;&gt;Useful sources in Italian&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://hfcqgis.opendatasicilia.it/it/latest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Help for calculator functions of QGIS fields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://qgis4dummies.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qgis4dummies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/qgis-e-la-stampa-in-pdf-layered-a067402e175f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS and layered PDF printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/tantotanto/qgis-relazioni-moduli-e-widget-illustrati-con-un-semplice-caso-duso-2dc5ab47770e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS, reports, modules and widgets, illustrated with a simple use case&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come raccogliere dati geolocalizzati&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/tag/qgis/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS - articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to QGIS Time Manage&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geospatial animations with QGIS Atlas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/maptiler/map-service-for-qgis3-without-a-server-51d53aee92cb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Map service for QGIS3 without a server&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;3d&#34;&gt;3D&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating 3D map in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@loosegoat/qgis-data-visualisation-c0579c7472dd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS data visualisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New QGIS and 3D visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/the-pointscene-diaries/qgis-3d-buildings-tutorial-1e0111fcd766&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CityGML and 3D data in QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/@tjukanov/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS magic — Old raster maps to 3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorcreation.html#id35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Array of offset (parallel) lines NEW in 3.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://changelog.qgis.org/en/qgis/version/3.6.0/#sld-export-for-raster-styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLD export for raster styles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stack-overflow&#34;&gt;Stack Overflow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/tagged/qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions tagged [qgis]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/7199/how-do-i-calculate-the-latitude-and-longitude-of-points-using-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calculate the latitude and longitude of points using QGIS?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gis.stackexchange.com/questions/308985/values-on-top-of-each-bar-of-a-histogram-in-qgis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;values on top of each bar of a histogram created with QGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

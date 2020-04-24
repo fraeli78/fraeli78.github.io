@@ -1,0 +1,1336 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Filippo Maria Raeli">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The most comprehensive and free sources">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://fraeli78.github.io/post/leaflet/summary/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137819962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137819962-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu47f45b68ddd45e012615275fa830d947_809_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://fraeli78.github.io/post/leaflet/summary/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Filippo Maria Raeli">
+  <meta property="og:url" content="https://fraeli78.github.io/post/leaflet/summary/">
+  <meta property="og:title" content="Leaflet | Filippo Maria Raeli">
+  <meta property="og:description" content="The most comprehensive and free sources"><meta property="og:image" content="https://fraeli78.github.io/post/leaflet/summary/featured.png">
+  <meta property="twitter:image" content="https://fraeli78.github.io/post/leaflet/summary/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-03-15T20:20:54&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-03-15T20:20:54&#43;01:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://fraeli78.github.io/post/leaflet/summary/"
+  },
+  "headline": "Leaflet",
+  
+  "image": [
+    "https://fraeli78.github.io/post/leaflet/summary/featured.png"
+  ],
+  
+  "datePublished": "2019-03-15T20:20:54+01:00",
+  "dateModified": "2019-03-15T20:20:54+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Filippo Maria Raeli"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Filippo Maria Raeli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://fraeli78.github.io/images/logo_hu47f45b68ddd45e012615275fa830d947_809_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "The most comprehensive and free sources"
+}
+</script>
+
+  
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#4caf50",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#4caf50"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>Leaflet | Filippo Maria Raeli</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu47f45b68ddd45e012615275fa830d947_809_0x70_resize_lanczos_2.png" alt="Filippo Maria Raeli"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu47f45b68ddd45e012615275fa830d947_809_0x70_resize_lanczos_2.png" alt="Filippo Maria Raeli"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/tutorial/"><span>Tutorials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Leaflet</h1>
+
+  
+  <p class="page-subtitle">Listed on the page, you will find the most comprehensive and free sources online.</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/framework/">Framework</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 580px; max-height: 426px;">
+  <div style="position: relative">
+    <img src="/post/leaflet/summary/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Image credit: <a href="https://leafletjs.com/"><strong>Leaflet</strong></a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="leaflethttpsleafletjscom-an-open-source-javascript-library-for-mobile-friendly-interactive-maps-created-by-vladimir-agafonkinhttpsagafonkincom">
+<a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet</a> an open-source JavaScript library for mobile-friendly interactive maps created by 
+<a href="https://agafonkin.com/" target="_blank" rel="noopener">Vladimir Agafonkin</a>.</h2>
+<h3 id="tutorials">Tutorials</h3>
+<ul>
+<li>
+<h4 id="welcome-to-the-web-map-workshop-series-by-duspvizhttpduspvizmiteduweb-map-workshop">Welcome to the Web Map Workshop series by &ldquo;
+<a href="http://duspviz.mit.edu/web-map-workshop/" target="_blank" rel="noopener">DUSPviz</a>&rdquo;</h4>
+<ul>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/code-your-first-website/" target="_blank" rel="noopener">Intro to Websites (HTML/CSS)</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/bootstrap-templates/" target="_blank" rel="noopener">Using Bootstrap: Website Frameworks and Templates</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/leaflet-js/" target="_blank" rel="noopener">Web Map Fundamentals/Make a Basic Web Map</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/javascript-an-introduction/" target="_blank" rel="noopener">Introduction to JavaScript: Core Concepts</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/leaflet-javascript-interactions/" target="_blank" rel="noopener">JavaScript Interactions and Leaflet</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/map-symbolization/" target="_blank" rel="noopener">Choropleth Mapping and Custom Symbolization</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/databases-leaflet-cartodb/" target="_blank" rel="noopener">Introduction to PostGIS: Using CARTO and Leaflet</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/cartodb-data-collection/" target="_blank" rel="noopener">Advanced Mapping: Data Collection with PHP and the CARTO API</a></li>
+<li>
+<a href="http://duspviz.mit.edu/web-map-workshop/" target="_blank" rel="noopener">Advanced Mapping: Leaflet with PostGIS/NodeJS/Express</a></li>
+</ul>
+</li>
+<li>
+<h4 id="leaflet-map-templates-by-data-visualization-for-allhttpsdatavizforallorg">Leaflet Map Templates by &ldquo;
+<a href="https://datavizforall.org/" target="_blank" rel="noopener">Data Visualization for All</a>&rdquo;</h4>
+<ul>
+<li>
+<a href="https://datavizforall.org/leaflet-maps-with-google-sheets.html" target="_blank" rel="noopener">Leaflet Maps with Google Sheets template</a></li>
+<li>
+<a href="https://datavizforall.org/leaflet-storymaps-with-google-sheets.html" target="_blank" rel="noopener">Leaflet Storymaps with Google Sheets and Scrolling Narrative</a></li>
+<li>
+<a href="https://datavizforall.org/leaflet-maps-with-socrata.html" target="_blank" rel="noopener">Leaflet Maps with Socrata API Open Data</a></li>
+<li>
+<a href="https://datavizforall.org/leaflet-maps-open-apis.html" target="_blank" rel="noopener">Pull Open Data into Leaflet Map with APIs</a></li>
+</ul>
+</li>
+<li>
+<h4 id="two-weeks-of-leaflet-by-spatial-galaxyhttpspatialgalaxynet">Two Weeks of Leaflet by &ldquo;
+<a href="http://spatialgalaxy.net/" target="_blank" rel="noopener">Spatial Galaxy</a>&rdquo;</h4>
+<ul>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/23/two-weeks-of-leaflet-day-1/" target="_blank" rel="noopener">Two Weeks of Leaflet - Day 1 </a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/24/leaflet-day-2-adding-a-marker/" target="_blank" rel="noopener">Leaflet Day 2 - Adding a Marker</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/25/leaflet-day-3-the-trail/" target="_blank" rel="noopener">Leaflet Day 3 - The Trail</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/26/leaflet-day-4-basemaps-and-overlays/" target="_blank" rel="noopener">Leaflet Day 4 - Basemaps and Overlays</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/27/leaflet-day-5-working-with-features/" target="_blank" rel="noopener">Leaflet Day 5 - Working with Features</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/28/leaflet-day-6-geopackage-layers/" target="_blank" rel="noopener">Leaflet Day 6 - GeoPackage Layers</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/01/30/leaflet-day-7-coordinates/" target="_blank" rel="noopener">Leaflet Day 7 - Coordinates</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/01/leaflet-day-8-zoom-to-feature/" target="_blank" rel="noopener">Leaflet Day 8 - Zoom to Feature</a></li>
+<li>[Leaflet Day 9 - Calculating Distance with Turf.js](Leaflet Day 9 - Calculating Distance with Turf.js)</li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/06/leaflet-day-10-adding-a-link-to-a-popup/" target="_blank" rel="noopener">Leaflet Day 10 - Adding a Link to a Popup</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/08/leaflet-day-11-plugins/" target="_blank" rel="noopener">Leaflet Day 11 - Plugins</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/09/leaflet-day-12-create-a-leaflet-map-from-qgis/" target="_blank" rel="noopener">Leaflet Day 12 - Create a Leaflet Map from QGIS</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/10/leaflet-day-13-styling-with-a-plugin/" target="_blank" rel="noopener">Leaflet Day 13 - Styling with a Plugin</a></li>
+<li>
+<a href="http://spatialgalaxy.net/2019/02/11/leaflet-day-14-image-overlay-and-wrap-up/" target="_blank" rel="noopener">Leaflet Day 14 - Image Overlay and Wrap-up</a></li>
+</ul>
+</li>
+<li>
+<h4 id="using-leaflet-with-shiny-by-rstudiohttpswwwrstudiocom">Using Leaflet with Shiny by &ldquo;
+<a href="https://www.rstudio.com/" target="_blank" rel="noopener">RStudio</a>&rdquo;</h4>
+<ul>
+<li>
+<a href="https://rstudio.github.io/leaflet/shiny.html" target="_blank" rel="noopener">Leaflet for R</a></li>
+<li>
+<a href="https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html" target="_blank" rel="noopener">Publishing Maps to the Web - Bryce Mecum</a></li>
+<li>
+<a href="http://bl.ocks.org/pattyf/raw/3bc3a95a3047f132b253eec4250fabca/" target="_blank" rel="noopener">Creating a Leaflet Map and publishing it on RPubs - Patty Frontiera</a></li>
+<li>
+<a href="https://github.com/AugustT/shiny_geolocation" target="_blank" rel="noopener">Geolocate User Location in R Leaflet</a></li>
+<li>
+<a href="http://www.kimberlycoffey.com/blog/2016/2/13/mlz90wjw0k76446xkg262prvjp0l8u" target="_blank" rel="noopener">Shiny APP</a></li>
+<li>
+<a href="https://community.rstudio.com/" target="_blank" rel="noopener">RStudio Community</a></li>
+</ul>
+</li>
+<li>
+<h4 id="make-web-map-with-leaflet">Make Web Map with Leaflet</h4>
+<ul>
+<li>
+<a href="http://luxembourgjs.github.io/leaflet-demo/#/" target="_blank" rel="noopener">Leaflet Introduction</a></li>
+<li>
+<a href="https://maptimeboston.github.io/leaflet-intro/" target="_blank" rel="noopener">Leaflet: Make a web map!</a></li>
+<li>
+<a href="https://github.com/geografa/foss4g2014-workshops/blob/master/Leaflet-and-Mapbox-JavaScript-API-Fundamentals.md" target="_blank" rel="noopener">Leaflet and Mapbox JavaScript API Fundamentals</a></li>
+<li>
+<a href="https://github.com/petermooney/foss4VGI/blob/master/MappingWithLeaflet/Visualing_VGI_With_Leaflet_PeterMooney.pdf" target="_blank" rel="noopener">Visualising VGI with Leaflet</a></li>
+<li>
+<a href="http://bl.ocks.org/rgdonohue/bb2fdafab5ee7532df52" target="_blank" rel="noopener">Perceptual scaling of prop symbols</a></li>
+<li>
+<a href="https://www.patrick-wied.at/static/heatmapjs/example-heatmap-leaflet.html" target="_blank" rel="noopener">Heatmap</a></li>
+<li>
+<a href="https://gis.ucar.edu/github-web-hosting" target="_blank" rel="noopener">GitHub Web Hosting</a></li>
+<li>
+<a href="https://github.com/uwcart/cartographic-perspectives" target="_blank" rel="noopener">Cartographic Perspectives &ldquo;On The Horizon&rdquo; Tutorials</a></li>
+<li>
+<a href="https://jmmluna.github.io/Leaflet.geojsonCSS/" target="_blank" rel="noopener">Geojson CSS</a></li>
+<li>
+<a href="https://jmmluna.github.io/Leaflet.geojsonCSS/demo-layer-and-feature-style/demo.html" target="_blank" rel="noopener">GeoJSON CSS Vector layer and vector feature style</a></li>
+<li>
+<a href="https://stackoverflow.com/questions/19209969/load-google-spreadsheet-to-visualize-with-leaflet" target="_blank" rel="noopener">Load Google Spreadsheet to visualize with leaflet</a></li>
+<li>
+<a href="https://datavizforall.org/leaflet-polygon-map-multi-year-tabs.html" target="_blank" rel="noopener">Leaflet Thematic Polygon Map with Multi-Year Tabs template</a></li>
+<li>
+<a href="https://rdrn.me/leaflet-maps-google-sheets/" target="_blank" rel="noopener">Leaflet maps with data from Google Sheets</a></li>
+</ul>
+</li>
+<li>
+<h4 id="leaflet-zip-code-map">Leaflet Zip Code Map</h4>
+<ul>
+<li>
+<a href="https://dillonshook.com/leaflet-zip-code-map-part-1/" target="_blank" rel="noopener">Part 1</a></li>
+<li>
+<a href="https://dillonshook.com/leaflet-zip-code-map-part-2/" target="_blank" rel="noopener">Part 2</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="plugin">Plugin</h3>
+<ul>
+<li>
+<h4 id="great-leaflet-pluginshttpsleafletjscompluginshtml">Great Leaflet 
+<a href="https://leafletjs.com/plugins.html" target="_blank" rel="noopener">plugins</a></h4>
+<ul>
+<li>
+<a href="https://github.com/calvinmetcalf/leaflet-ajax" target="_blank" rel="noopener">Ajax</a></li>
+<li>
+<a href="https://github.com/mapbox/leaflet-omnivore" target="_blank" rel="noopener">Omnivore</a></li>
+<li>
+<a href="https://github.com/calvinmetcalf/leaflet.shapefile" target="_blank" rel="noopener">Shapefile</a></li>
+<li>
+<a href="https://github.com/lvoogdt/Leaflet.awesome-markers" target="_blank" rel="noopener">Awesome-markers plugin v2.0</a></li>
+<li>
+<a href="https://labs.mapbox.com/maki-icons/" target="_blank" rel="noopener">Maki - Icon set made for map designers.</a></li>
+<li>
+<a href="https://github.com/jseppi/Leaflet.MakiMarkers" target="_blank" rel="noopener">MakiMarkers</a></li>
+<li>
+<a href="https://github.com/Leaflet/Leaflet.markercluster" target="_blank" rel="noopener">Marker cluster</a></li>
+<li>
+<a href="https://github.com/Leaflet/Leaflet.draw" target="_blank" rel="noopener">Draw</a></li>
+<li>
+<a href="https://github.com/codeofsumit/leaflet.pm" target="_blank" rel="noopener">Geometry Management</a></li>
+<li>
+<a href="https://github.com/k4r573n/leaflet-control-osm-geocoder" target="_blank" rel="noopener">Control osm geocoder</a></li>
+<li>
+<a href="https://github.com/perliedman/leaflet-control-geocoder" target="_blank" rel="noopener">Control Geocoder</a></li>
+<li>
+<a href="https://github.com/stefanocudini/leaflet-search" target="_blank" rel="noopener">Search</a></li>
+<li>
+<a href="https://github.com/noncomputable/AgentMaps" target="_blank" rel="noopener">AgentMaps - Social Simulations on Interactive Maps</a></li>
+<li>
+<a href="http://millermountain.com/geospatialblog/2018/06/26/postgis-data-in-leaflet/" target="_blank" rel="noopener">Working with PostGIS data from within Leaflet.js (or any other client side mapping API)</a></li>
+<li>
+<a href="https://github.com/domoritz/leaflet-locatecontrol" target="_blank" rel="noopener">geolocate the user with many options</a></li>
+<li>
+<a href="https://github.com/nickpeihl/leaflet-sidebar-v2" target="_blank" rel="noopener">A responsive sidebar with tabs just for Leaflet</a></li>
+<li>
+<a href="http://www.coffeegnome.net/synchronization-of-leaflet-js-and-google-spreadsheet/" target="_blank" rel="noopener">Synchronization of leaflet.js and google spreadsheet</a></li>
+<li>
+<a href="https://medium.com/@tomchadwin/where-next-for-qgis2web-2c39e03b4131" target="_blank" rel="noopener">Qgis2web</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="examples">Examples</h3>
+<ul>
+<li>
+<h4 id="gallery">Gallery</h4>
+<ul>
+<li>
+<a href="http://roadstorome.moovellab.com/explore" target="_blank" rel="noopener">Urban Mobility Fingerprint and Street DNA graphs</a></li>
+<li>
+<a href="https://source.opennews.org/articles/draw-your-own-election-adventure/" target="_blank" rel="noopener">Draw Your Own Election Adventure</a></li>
+<li>
+<a href="https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all" target="_blank" rel="noopener">Heatmap</a></li>
+<li>
+<a href="http://www.cartographicperspectives.org/index.php/journal/article/view/cp76-donohue-et-al/1307" target="_blank" rel="noopener">Time Series Proportional Symbol Maps with Leaflet and jQuery</a></li>
+<li>
+<a href="http://www.cartographicperspectives.org/index.php/journal/article/view/cp78-sack-et-al/1359" target="_blank" rel="noopener">Interactive and Multivariate Choropleth Maps with D3</a></li>
+<li>
+<a href="https://geography.wisc.edu/geography-575-spring-2017/" target="_blank" rel="noopener">Student final project - Geography 575 spring 2017</a></li>
+<li>
+<a href="http://geog575-spring2016.github.io/" target="_blank" rel="noopener">Madison Geography 575 Final Projects</a></li>
+<li>
+<a href="http://gisteckno.com/pmc/" target="_blank" rel="noopener">Plano Mutual Cemetery</a></li>
+<li>
+<a href="https://www.openrailwaymap.org/index.php" target="_blank" rel="noopener">OpenRailwayMap</a></li>
+<li>
+<a href="https://dopa-explorer.jrc.ec.europa.eu/" target="_blank" rel="noopener">Digital Observatory for Protected Areas (DOPA) Explorer 3.0</a></li>
+<li>
+<a href="https://www.renewables.ninja/" target="_blank" rel="noopener">Renewable energy simulations, ninja style</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="tools">Tools</h3>
+<ul>
+<li>
+<h4 id="useful-tools-for-daily-activity">Useful tools for daily activity</h4>
+<ul>
+<li>
+<a href="http://colorbrewer2.org/#" target="_blank" rel="noopener">Colorbrewer 2.0</a></li>
+<li>
+<a href="https://www.axismaps.com/guide/data/data-classification/" target="_blank" rel="noopener">The Basics of Data Classification</a></li>
+<li>
+<a href="https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/" target="_blank" rel="noopener">Your Friendly Guide to Colors in Data Visualisation</a></li>
+<li>
+<a href="http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/" target="_blank" rel="noopener">Bivariate Choropleth Maps: A How-to Guide</a></li>
+<li>
+<a href="https://github.com/google/palette.js" target="_blank" rel="noopener">Script for generating color palettes for use with graphs, charts and cartography</a></li>
+<li>
+<a href="https://datatables.net/" target="_blank" rel="noopener">Advanced interaction controls to your HTML tables</a></li>
+<li>
+<a href="https://react-leaflet.js.org/docs/en/intro.html" target="_blank" rel="noopener">React-Leaflet</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="stack-overflow">Stack Overflow</h3>
+<ul>
+<li>
+<a href="https://stackoverflow.com/questions/tagged/leaflet" target="_blank" rel="noopener">Questions tagged [leaflet]</a></li>
+</ul>
+<h3 id="medium">Medium</h3>
+<ul>
+<li>
+<a href="https://medium.com/tag/leaflet/latest" target="_blank" rel="noopener">Leaflet - articles</a></li>
+</ul>
+<h3 id="video">Video</h3>
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=J7pFiXh-ydA" target="_blank" rel="noopener">Build a Maps App with Leaflet - React/Node.js/Express/MongoDB</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/leaflet/">Leaflet</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://fraeli78.github.io/post/leaflet/summary/&amp;text=Leaflet" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://fraeli78.github.io/post/leaflet/summary/&amp;t=Leaflet" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Leaflet&amp;body=https://fraeli78.github.io/post/leaflet/summary/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://fraeli78.github.io/post/leaflet/summary/&amp;title=Leaflet" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Leaflet%20https://fraeli78.github.io/post/leaflet/summary/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://fraeli78.github.io/post/leaflet/summary/&amp;title=Leaflet" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/filippo-maria-raeli/avatar_hud66aca7d5476d36a3320dad234f0a502_19158_270x270_fill_q90_lanczos_center.jpg" alt="Filippo Maria Raeli">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://fraeli78.github.io/">Filippo Maria Raeli</a></h5>
+        <h6 class="card-subtitle">GIS Developer - Data Analyst - Web Design</h6>
+        <p class="card-text">My passion is learning the advances of modern technology and how to piece together a solution to every problem that I would like to expose myself to and be able to resolve different issues in difficult situations.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/filippomariaraeli/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/polpo26" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/fraeli78" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

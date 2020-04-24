@@ -3,39 +3,240 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filippomariaraeli.com/authors/</loc>
+    <loc>https://fraeli78.github.io/</loc>
+    <lastmod>2019-04-12T10:40:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/categories/</loc>
+    <loc>https://fraeli78.github.io/post/</loc>
+    <lastmod>2019-04-12T10:40:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/</loc>
+    <loc>https://fraeli78.github.io/post/web_development/summary/</loc>
+    <lastmod>2019-04-12T10:40:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/author/filippo-maria-raeli/</loc>
+    <loc>https://fraeli78.github.io/tutorial/gis4labrador/</loc>
+    <lastmod>2019-04-11T18:08:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/post/</loc>
+    <loc>https://fraeli78.github.io/tutorial/</loc>
+    <lastmod>2019-04-11T18:08:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/publication_types/</loc>
+    <loc>https://fraeli78.github.io/tag/blog/</loc>
+    <lastmod>2019-03-15T20:25:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/publication/</loc>
+    <loc>https://fraeli78.github.io/post/blog/summary/</loc>
+    <lastmod>2019-03-15T20:25:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/talk/</loc>
+    <loc>https://fraeli78.github.io/tags/</loc>
+    <lastmod>2019-03-15T20:25:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippomariaraeli.com/tags/</loc>
+    <loc>https://fraeli78.github.io/tag/git/</loc>
+    <lastmod>2019-03-15T20:24:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/git_github/summary/</loc>
+    <lastmod>2019-03-15T20:24:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/github/</loc>
+    <lastmod>2019-03-15T20:24:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/licence/</loc>
+    <lastmod>2019-03-15T20:22:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/licences/summary/</loc>
+    <lastmod>2019-03-15T20:22:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/googlemaps/summary/</loc>
+    <lastmod>2019-03-15T20:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/googlemaps/</loc>
+    <lastmod>2019-03-15T20:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/categories/</loc>
+    <lastmod>2019-03-15T20:20:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/category/framework/</loc>
+    <lastmod>2019-03-15T20:20:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/leaflet/</loc>
+    <lastmod>2019-03-15T20:20:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/leaflet/summary/</loc>
+    <lastmod>2019-03-15T20:20:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/webgis/</loc>
+    <lastmod>2019-03-15T20:18:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/webgis/summary/</loc>
+    <lastmod>2019-03-15T20:18:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/python/</loc>
+    <lastmod>2019-03-15T20:17:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/python/summary/</loc>
+    <lastmod>2019-03-15T20:17:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/gdal/</loc>
+    <lastmod>2019-03-15T20:16:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/gdal/summary/</loc>
+    <lastmod>2019-03-15T20:16:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/postgis/</loc>
+    <lastmod>2019-03-15T20:16:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/postgis/summary/</loc>
+    <lastmod>2019-03-15T20:16:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/arcgis/</loc>
+    <lastmod>2019-03-15T20:15:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/arcgis/summary/</loc>
+    <lastmod>2019-03-15T20:15:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/category/desktop-gis/</loc>
+    <lastmod>2019-03-15T20:15:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/gis/</loc>
+    <lastmod>2019-03-15T20:15:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/tutorials/</loc>
+    <lastmod>2019-03-15T20:15:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/qgis/</loc>
+    <lastmod>2019-03-15T20:15:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/qgis/summary/</loc>
+    <lastmod>2019-03-15T20:15:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/authors/</loc>
+    <lastmod>2019-03-15T20:15:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/author/filippo-maria-raeli/</loc>
+    <lastmod>2019-03-15T20:15:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/gis/summary/</loc>
+    <lastmod>2019-03-15T20:15:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/scribblemaps/can_your_customers_find_you/</loc>
+    <lastmod>2019-03-15T12:21:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/scribblemaps/</loc>
+    <lastmod>2019-03-15T12:21:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/scribblemaps/geomarketing_market_research/</loc>
+    <lastmod>2019-03-15T12:20:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/scribblemaps/maps_from_statistical_data/</loc>
+    <lastmod>2019-03-15T12:20:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/scribblemaps/make_thematic_maps_quickly/</loc>
+    <lastmod>2019-03-15T12:19:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/scribblemaps/creating_custom_web_maps/</loc>
+    <lastmod>2019-03-15T12:17:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/tag/opendata/</loc>
+    <lastmod>2019-03-15T10:19:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/post/opendata/</loc>
+    <lastmod>2019-03-15T10:19:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fraeli78.github.io/talk/</loc>
   </url>
   
 </urlset>
